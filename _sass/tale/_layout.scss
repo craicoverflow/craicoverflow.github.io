@@ -83,10 +83,50 @@ footer,
 footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
+  padding-top:50px;
   text-align: center;
+  // border:1px solid red;
+  // height: 100%;
 
   span {
-    color: $default-color;
+    color: $grey-1;
     font-size: .8rem;
+    vertical-align: middle;
+  }
+
+  .social {
+    height:40px;
+
+    a {
+      margin:4px;
+    }
+    a.social-email {
+      color: $color-email;
+
+      :hover {
+        color: $color-email-2;
+      }
+    }
+    a.social-github {
+      color: $color-github;
+
+      :hover {
+        color: $color-github-2;
+      }
+    }
+    a.social-linkedin {
+      color: $color-linkedin;
+
+      :hover {
+        color: $color-linkedin-2;
+      }
+    }
+    a.social-instagram {
+      color: $color-instagram;
+
+      :hover {
+        color: $color-instagram-2;
+      }
+    }
   }
 }

@@ -1,14 +1,19 @@
 # Site settings
-title:          Tale
+title:          Enda Phelan
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            "https://endaphelan.me"
+
+github:         craicoverflow
+email:          endaphelan@gmail.com
+linkedin:       endaphelan
+instagram:      enda.phelan
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Enda Phelan
+  url:          https://endaphelan.me
+  email:        endaphelan@gmail.com
 
 # Build settings
 markdown:       kramdown
