@@ -15,6 +15,9 @@ layout: default
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
+
+    <br>
+    <span> &middot; {{ content | reading_time_as_i }}</span>
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
