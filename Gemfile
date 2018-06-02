@@ -3,4 +3,3 @@
 source "https://rubygems.org"
 gemspec
 gem 'jemoji'
-gem 'jekyll-time-to-read'

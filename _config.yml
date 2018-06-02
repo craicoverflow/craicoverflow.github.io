@@ -27,7 +27,6 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
-  - jekyll-time-to-read
   - jemoji 
 
 # Permalinks

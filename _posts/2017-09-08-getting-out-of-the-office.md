@@ -4,7 +4,7 @@ title:  "Getting Out of the Office: Continuous Integration, Continuous Learning"
 categories: tech
 ---
 
-The most typical place you will find a software developer on a normal day is at their desk, working hard and turning coffee into code. Its important to remember to get out of the office and add variety to our work environment. It brings new ideas, learnings and shared experiences that will ultimately bring a team closer. Last year we visited ng-europe and this year our conference of choice was ShipItCon.
+The most typical place you will find a software developer on a normal day is at their desk, working hard and turning coffee into code. It's important to remember to get out of the office and add variety to our work environment. It brings new ideas, learnings and shared experiences that will ultimately bring a team closer. Last year we visited ng-europe and this year our conference of choice was ShipItCon.
 
 <img src="/assets/posts/2017-09-08-getting-out-of-the-office-fig1.jpg" alt="Figure 1" width="550">
 
