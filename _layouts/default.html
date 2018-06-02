@@ -22,13 +22,12 @@
   </main>
 
   <footer>
-    <!-- <span>
-      &copy;
-      <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
-    </span> -->
     <div class="social">
       <a href="mailto:{{site.email}}" class="social-email" target="_blank">
         <i class="fa fa-envelope fa-2x"></i>
+      </a>
+      <a href="https://www.twitter.com/{{site.twitter}}" target="_blank" class="social-twitter">
+        <i class="fab fa-twitter fa-2x"></i>
       </a>
       <a href="https://www.github.com/{{site.github}}" target="_blank" class="social-github">
         <i class="fab fa-github fa-2x"></i>
@@ -41,7 +40,10 @@
       </a>
     </div>
     <div class="copyright">
-
+      <span>
+        &copy;
+        <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
+      </span>
     </div>
   </footer>
 </body>

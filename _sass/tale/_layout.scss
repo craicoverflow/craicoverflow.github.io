@@ -85,8 +85,6 @@ footer {
   padding: 2rem 0;
   padding-top:50px;
   text-align: center;
-  // border:1px solid red;
-  // height: 100%;
 
   span {
     color: $grey-1;
@@ -128,5 +126,16 @@ footer {
         color: $color-instagram-2;
       }
     }
+    a.social-twitter {
+      color: $color-twitter;
+
+      :hover {
+        color: $color-twitter-2;
+      }
+    }
+  }
+
+  .copyright {
+    margin-top:30px;
   }
 }
