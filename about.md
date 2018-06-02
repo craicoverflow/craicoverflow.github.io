@@ -29,4 +29,4 @@ The fourth year was optional - we learned ​advanced software development conce
 I graduated from IT Sligo in 2016, receiving an award for finishing with the highest GPA in my class.
 
 <img src="/assets/jpg/graduation-award.jpg" width="500" alt="Me receiving an award for finishing with the highest grade in my class">
-_Receiving a medal from lecturer Paul Powell for having with the highest grade in my class_
+_Receiving an award for having with the highest grade in my class_
