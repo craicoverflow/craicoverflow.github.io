@@ -1,20 +1,46 @@
 # Site settings
 title:          Enda Phelan
-description:    "Minimal Jekyll theme for storytellers"
+description:    "Enda Phelan's personal website"
 baseurl:        ""
-url:            "https://endaphelan.me"
+url:            http://endaphelan.me
+logo:           /assets/jpg/Enda.jpg
+lang:           en_IE
 
-github:         craicoverflow
-email:          endaphelan@gmail.com
-linkedin:       endaphelan
-instagram:      enda.phelan
-twitter:        PhelanEnda
+# GitHub
+github:
+  username:     craicoverflow
+
+# Email
+email:          
+  username:     endaphelan@gmail.com
+
+# LinkedIn
+linkedin:
+  username:     endaphelan
+
+# Instagram
+instagram:
+  username:     enda.phelan
+
+# Twitter
+twitter:        
+  username:     PhelanEnda
+  card:         summary
 
 # Author
 author:
   name:         Enda Phelan
-  url:          https://endaphelan.me
+  url:          http://endaphelan.me
   email:        endaphelan@gmail.com
+
+# Social links
+social:
+  name: Enda Phelan
+  links:
+    - https://twitter.com/PhelanEnda
+    - https://www.linkedin.com/in/endaphelan
+    - https://github.com/craicoverflow
+    - https://instagram.com/enda.phelan
 
 # Build settings
 markdown:       kramdown
@@ -28,6 +54,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jemoji 
+  - jekyll-seo-tag
 
 # Permalinks
 permalink:      /:categories/:title
