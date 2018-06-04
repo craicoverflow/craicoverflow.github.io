@@ -18,7 +18,7 @@ In my most recent job at [Qpercom](https://www.qpercom.com) I was employed as a 
 
 Before Qpercom I did a five month paid internship in Vulcan Solutions (now [Codec-dss](http://www.codec.ie)). I joined an agile team of four experienced engineers where I helped to develop Microsoft Dynamics CRM solutions and ASP.NET web applications.
 
-If you want to know more about my experience, check out my [CV](/assets/pdf/EndaPhelan.pdf}}) or [LinkedIn](https://www.linkedin.com/in/endaphelan) profile. I also have a Freelancer.com [profile](https://www.freelancer.com/u/endaphelan).
+If you want to know more about my experience, check out my [CV](/assets/pdf/EndaPhelan.pdf) or [LinkedIn](https://www.linkedin.com/in/endaphelan) profile. I also have a Freelancer.com [profile](https://www.freelancer.com/u/endaphelan).
 
 ## Education
 

@@ -1,6 +1,6 @@
 # Site settings
 title:          Enda Phelan
-description:    "Enda Phelan's personal website"
+description:    "Enda Phelan is a software engineer from Ireland. This is his personal website where he posts about anything and everything, from technology to travel."
 baseurl:        ""
 url:            http://endaphelan.me
 logo:           /assets/jpg/Enda.jpg
