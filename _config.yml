@@ -55,7 +55,15 @@ plugins:
   - jekyll-paginate
   - jemoji 
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Permalinks
 permalink:      /:categories/:title
 paginate:       5
+
+defaults:
+  -
+    scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
