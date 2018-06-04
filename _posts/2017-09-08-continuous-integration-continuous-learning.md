@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Continuous Integration, Continuous Learning"
+title:  "Continuous Integration; Continuous Learning"
+description: "The most typical place you will find a software developer on a normal day is at their desk, working hard and turning coffee into code. It’s important to remember to get out of the office and add variety to our work environment."
 categories: tech
 ---
 
