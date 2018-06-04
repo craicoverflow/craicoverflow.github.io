@@ -58,7 +58,7 @@ plugins:
   - jekyll-sitemap
 
 # Permalinks
-permalink:      /:categories/:title
+permalink:      /:categories:title
 paginate:       5
 
 defaults:
