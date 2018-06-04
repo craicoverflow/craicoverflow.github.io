@@ -2,7 +2,7 @@
 title:          Enda Phelan
 description:    "Enda Phelan is a software engineer from Ireland. This is his personal website where he posts about anything and everything, from technology to travel."
 baseurl:        ""
-url:            http://endaphelan.me
+url:            https://endaphelan.me
 logo:           /assets/jpg/Enda.jpg
 lang:           en_IE
 
@@ -30,7 +30,7 @@ twitter:
 # Author
 author:
   name:         Enda Phelan
-  url:          http://endaphelan.me
+  url:          https://endaphelan.me
   email:        endaphelan@gmail.com
 
 # Social links
