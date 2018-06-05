@@ -16,9 +16,12 @@
 
 
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> {% if page.description != blank %}
-  <meta name="description" content="{{ page.description }}"> {% else %}
-  <meta name="description" content="{{ site.description }}"> {% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  {% if page.description != blank %}
+  <meta name="description" content="{{ page.description | truncate: 300 }}"> 
+  {% else %}
+  <meta name="description" content="{{ site.description | truncate: 300 }}"> 
+  {% endif %}
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
