@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="post">
+  {% if page.show_info == true %}
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
@@ -18,6 +19,7 @@ layout: default
 
     <br>
   </div>
+  {% endif %}
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
