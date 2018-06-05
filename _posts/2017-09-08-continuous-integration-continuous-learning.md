@@ -2,9 +2,8 @@
 layout: post
 title:  "Continuous Integration; Continuous Learning"
 description: "The most typical place you will find a software developer on a normal day is at their desk, working hard and turning coffee into code. It’s important to remember to get out of the office and add variety to our work environment."
-categories: blog
+categories: tech
 show_info: true
-tags: conferences technology docker software work learning continuous integration
 ---
 
 The most typical place you will find a software developer on a normal day is at their desk, working hard and turning coffee into code. It's important to remember to get out of the office and add variety to our work environment. It brings new ideas, learnings and shared experiences that will ultimately bring a team closer. Last year we visited ng-europe and this year our conference of choice was ShipItCon.
@@ -28,3 +27,5 @@ Every talk gave me a reason to open my notebook and jot down notes and ideas. Th
 We are always looking to improve development practices at Qpercom. Currently, we are working towards adopting continuous integration into our daily practices. The first step in this process is containerizing our software using Docker, helping ensure applications deploy quickly, reliably, and consistently.
 
 Continuous integration (CI) is a development practice that automates the deployment process which will increase the quality of our software and will allow us to develop and produce software more rapidly. Manual deployment is a laborious task, so automating it will give us more time to focus on what matters - quality, security and our users’ experience.
+
+<a href="https://info.qpercom.com/blog/tech/shipitcon2017" target="_blank">**Link to original post**</a>.

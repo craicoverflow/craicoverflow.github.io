@@ -27,6 +27,17 @@
     width: 4rem;
   }
 
+  &-tags {
+    padding-top:40px;
+    a.post-tag {
+      border-radius: 30px;
+      text-align: center;
+      padding: 3px;
+      margin:2px;
+    }
+
+  }
+
   p {
     margin: 0 0 1rem;
     text-align: justify;
