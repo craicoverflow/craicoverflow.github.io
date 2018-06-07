@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Month in India: Delhi"
-description: "A Month In India: Delhi. What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, crazy country."
+title:  "A Month in India - Delhi"
+description: "A Month In India - Delhi. What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, crazy country."
 categories: travel india
 show_info: true
 ---
@@ -16,14 +16,14 @@ Don't believe me? I'll show you.
 
 We wait. He's nowhere to be seen, so we contact the hostel who get through to him. We wait some more and he finally comes. I never quite understood what happened, but I think that he left thinking we weren't coming.
 
-After a 40 minute journey in which we thought we might die at any moment because here they don't seem to have _any_ rules of the road, we finally make it to our hostel, located right in the heart of New Delhi, hidden 20 metres or so down a little alley, away from the chaotic street.
+After a 40 minute journey in the back of a van in which we thought we might die at any moment because here they don't seem to have _any_ rules of the road, we finally make it to our hostel, located right in the heart of New Delhi, hidden 20 metres or so down a little alley, away from the chaotic street.
 
 After checking in and chatting with the owner, we made our way up the three flights of stairs to our room. We collapsed onto our bed and quickly fell asleep, exhaused from the 13 hours of travelling.
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180205_161449-01.jpeg">
 _A vendor selling fresh juice near our hostel, Delhi_
 
-When we were still in the planning stages back in Ireland, a lot of what we read strongly recommended against going to Delhi first, as for many people it can be a bit overwhelming. We decided to ignore this advice, mainly because we already had our flights booked. 
+Back in Ireland when we were still in the planning phase of this trip, a lot of what we read online strongly recommended against going to Delhi first, as for many people the city can be overwhelming. We decided to ignore this advice, mainly because we already had our flights booked. 
 
 Looking back, we're happy that we had already booked our flights and had to start our trip in Delhi. We wanted a culture shock, and Delhi is probably one of the best places in the world to find one. Outside of Delhi, everything seemed kind of calm and easy in comparison.
 
