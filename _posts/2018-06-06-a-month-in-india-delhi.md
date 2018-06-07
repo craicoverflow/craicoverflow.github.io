@@ -25,7 +25,7 @@ _A vendor selling fresh juice near our hostel, Delhi_
 
 Back in Ireland when we were still in the planning phase of this trip, a lot of what we read online strongly recommended against going to Delhi first, as for many people the city can be overwhelming. We decided to ignore this advice, mainly because we already had our flights booked. 
 
-Looking back, we're happy that we had already booked our flights and had to start our trip in Delhi. We wanted a culture shock, and Delhi is probably one of the best places in the world to find one. Outside of Delhi, everything seemed kind of calm and easy in comparison.
+Looking back, we're happy that we had already booked our flights and had to start our trip here. We wanted a culture shock, and Delhi is probably one of the best places in the world to find one. Outside of Delhi, everything seemed kind of calm and easy in comparison.
 
 The best way I can describe Delhi is an assault on all of your senses; the strong smells that change every few steps, the constant noises from the horns and locals going about their business, extreme poverty alongside extreme wealth.
 
@@ -37,7 +37,7 @@ There are plenty of ways to get around Delhi. There are buses, taxis, tuk tuks, 
 
 ### Metro
 
-We had a couple of days to explore the city and be your typical tourists taking photos of everything. Luckily the hostel staff were helpful and told us that the best way to get around is the metro. A one day tourist card is only Rs 100 (€1.27), or Rs 250 (€3.17) for three days. That will get you to most places in the city and it has an unlimited number of uses.
+We had a couple of days to explore the city and be your typical tourists taking photos of everything. Luckily the hostel staff were helpful and told us that the best way to get around is the metro. A one day tourist card is only Rs 100 (€1.27), or Rs 250 (€3.17) for three days. That will get you to within a few minutes walk from most places in the city and it has an unlimited number of uses.
 
 The metro is definitely the easiest way to get around, as long as you don't mind tight spaces. If you decide that you want to give it a go, check out [this](/assets/india/Delhi_Metro_System.jpg) detailed map we found on Wikipedia.
 
@@ -45,7 +45,7 @@ The metro is definitely the easiest way to get around, as long as you don't mind
 
 Auto rickshaws, better known as tuk tuks, are a fun and inexpensive way to get around. If you've been to Asia before chances are you've already been in one. I'd recommend that you download [Grab](https://r.grab.com/grabeyygnut4) (ride-sharing app like Uber) to remove a lot of the hassle involved in trying to get to your destination and for a fair price.
 
-If you're old fashioned or if you just want to test your bargaining skills, have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
+If you're old fashioned or if you just want to practice your bargaining skills, have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
 
 Be aware though: unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Grab 😉.
 
