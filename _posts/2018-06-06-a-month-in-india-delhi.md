@@ -29,7 +29,7 @@ Looking back, we're happy that we had already booked our flights and had to star
 
 The best way I can describe Delhi is an assault on all of your senses; the strong smells that change every few steps, the constant noises from the horns and locals going about their business, extreme poverty alongside extreme wealth.
 
-19 million people (4x the population of Ireland) squeezed in to an area of less that 1,500km², India's capital city has it all.
+19 million people (4x the population of Ireland) squeezed in to an area of less that 1,500km², India's capital has it all.
 
 ## Getting Around
 
@@ -39,7 +39,7 @@ There are plenty of ways to get around Delhi. There are buses, taxis, tuk tuks, 
 
 We had a couple of days to explore the city and be your typical tourists taking photos of everything. Luckily the hostel staff were helpful and told us that the best way to get around is the metro. A one day tourist card is only Rs 100 (€1.27), or Rs 250 (€3.17) for three days. That will get you to most places in the city and it has an unlimited number of uses.
 
-The metro is definitely the easiest way to get around, as long as you don't mind tight spaces. If you decide that you want to give it a go, check out [this](/assets/india/Delhi_Metro_System.jpg) detailed map we used.
+The metro is definitely the easiest way to get around, as long as you don't mind tight spaces. If you decide that you want to give it a go, check out [this](/assets/india/Delhi_Metro_System.jpg) detailed map we found on Wikipedia.
 
 ### Tuk tuk
 
@@ -47,7 +47,7 @@ Auto rickshaws, better known as tuk tuks, are a fun and inexpensive way to get a
 
 If you're old fashioned or if you just want to test your bargaining skills, have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
 
-Be aware though, unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Grab 😉.
+Be aware though: unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Grab 😉.
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180205_135005-01.jpeg">
 _A typical tuk tuk, somewhere, somewhen in Delhi_
