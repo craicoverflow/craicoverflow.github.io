@@ -21,11 +21,11 @@ After a 40 minute journey in the back of a van in which we thought we might die 
 After checking in and chatting with the owner, we made our way up the three flights of stairs to our room. We collapsed onto our bed and quickly fell asleep, exhaused from the 13 hours of travelling.
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180205_161449-01.jpeg">
-_A vendor selling fresh juice near our hostel, Delhi_
+_A street vendor selling fresh juice near our hostel_
 
 Back in Ireland when we were still in the planning phase of this trip, a lot of what we read online strongly recommended against going to Delhi first, as for many people the city can be overwhelming. We decided to ignore this advice, mainly because we already had our flights booked. 
 
-Looking back, we're happy that we had already booked our flights and had to start our trip here. We wanted a culture shock, and Delhi is probably one of the best places in the world to find one. Outside of Delhi, everything seemed kind of calm and easy in comparison.
+Looking back, we're happy that we had to start our trip here. We wanted a culture shock, and Delhi is probably one of the best places in the world to find one. Outside of Delhi, everything seemed kind of calm and easy in comparison.
 
 The best way I can describe Delhi is an assault on all of your senses; the strong smells that change every few steps, the constant noises from the horns and locals going about their business, extreme poverty alongside extreme wealth.
 
