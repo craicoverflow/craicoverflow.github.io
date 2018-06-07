@@ -27,6 +27,14 @@
     width: 4rem;
   }
 
+  &-image {
+    border:6px solid $default-shade;
+  }
+
+  &-image-1 {
+    width: 550px;
+  }
+
   p {
     margin: 0 0 1rem;
     text-align: justify;
