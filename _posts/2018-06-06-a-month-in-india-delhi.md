@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Month in India: Delhi"
-description: "A Month In India: Delhi. What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, crazy country."
+title:  "A Month in India - Delhi"
+description: "A Month In India - Delhi. What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, crazy country."
 categories: travel india
 show_info: true
 ---
