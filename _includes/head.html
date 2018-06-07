@@ -24,9 +24,31 @@
 
 
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> {% if page.description != blank %}
-  <meta name="description" content="{{ page.description | truncate: 300 }}"> {% else %}
-  <meta name="description" content="{{ site.description | truncate: 300 }}"> {% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+
+  <!-- Twitter metadata -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@site_username">
+  <meta name="twitter:creator" content="@creator_username">
+  {% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+  {% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+  {% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.image %}
+  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}{{ site.logo }}">
+  {% endif %}
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
