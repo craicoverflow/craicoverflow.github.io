@@ -99,38 +99,38 @@ footer {
       margin:4px;
     }
     a.social-email {
-      color: $color-email;
+      color: $default-shade;
 
       :hover {
-        color: $color-email-2;
+        color: $default-color;
       }
     }
     a.social-github {
-      color: $color-github;
+      color: $default-shade;
 
       :hover {
-        color: $color-github-2;
+        color: $default-color;
       }
     }
     a.social-linkedin {
-      color: $color-linkedin;
+      color: $default-shade;
 
       :hover {
-        color: $color-linkedin-2;
+        color: $default-color;
       }
     }
     a.social-instagram {
-      color: $color-instagram;
+      color: $default-shade;
 
       :hover {
-        color: $color-instagram-2;
+        color: $default-color;
       }
     }
     a.social-twitter {
-      color: $color-twitter;
+      color: $default-shade;
 
       :hover {
-        color: $color-twitter-2;
+        color: $default-color;
       }
     }
   }
