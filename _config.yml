@@ -1,6 +1,6 @@
 # Site settings
 title:          Enda Phelan
-description:    "Hi. My name is Enda, a software engineer from Ireland and welcome to my personal website where I post about anything and everything."
+description:    "My name is Enda, a software engineer from Ireland and welcome to my personal website where I post about anything and everything."
 baseurl:        ""
 url:            https://endaphelan.me
 logo:           /assets/jpg/Enda.jpg
@@ -56,6 +56,7 @@ plugins:
   - jemoji 
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # Permalinks
 permalink:      /:categories/:title
