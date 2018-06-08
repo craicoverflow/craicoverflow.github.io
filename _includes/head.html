@@ -25,7 +25,13 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% else if page.title == 'Home' %}
+  <meta name="description" content="{{ site.description }}">
+  {% else %}
   <meta name="description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  {% endif %}
 
   <!-- Twitter metadata -->
   <meta name="twitter:card" content="summary">
@@ -41,8 +47,10 @@
   {% endif %}
   {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}">
-  {% else %}
+  {% else if page.title == 'Home' %}
   <meta name="twitter:description" content="{{ site.description }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
   {% endif %}
   {% if page.image %}
   <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
