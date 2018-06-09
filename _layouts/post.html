@@ -26,6 +26,10 @@ layout: default
 
   {{ content }}
 
+  {% if page.show_subscribe_info == true %}
+    {% include subscribe_info.html %}
+  {% endif %}
+
 </div>
 
 <div class="pagination">
