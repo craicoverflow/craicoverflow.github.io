@@ -69,7 +69,7 @@ We only had two full days to explore the city so we had to choose wisely when de
 
 ### Lotus Temple
 
-*Entry: free*. This is a nice, modern temple. It looks impressive from the outside, but once you get inside here isn't much to see or do, but if you are nearby it's worth checking out.
+*Entry: free*. This is a nice, modern temple. It looks impressive from the outside, but once you get inside there isn't much to see or do, but if you are nearby it's worth checking out.
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180206_152821498_HDR.jpg">
 _Making friends outside Lotus Temple_
