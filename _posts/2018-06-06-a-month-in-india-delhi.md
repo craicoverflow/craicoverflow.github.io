@@ -4,7 +4,7 @@ layout: post
 description: One Month In India - Delhi. What can I say? A lifetime wouldn't be enough
   to explore this exciting, diverse, crazy country.
 categories: travel india
-image: "/assets/india/IMG_20180205_135005-01.jpeg"
+image: "/assets/india/IMG_20180205_161449-01.jpeg"
 show_info: true
 show_subscribe_info: true
 ---
