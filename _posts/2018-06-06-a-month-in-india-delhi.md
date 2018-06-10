@@ -1,9 +1,10 @@
 ---
+title: One Month in India - Delhi
 layout: post
-title:  "One Month in India - Delhi"
-description: "One Month In India - Delhi. What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, crazy country."
+description: One Month In India - Delhi. What can I say? A lifetime wouldn't be enough
+  to explore this exciting, diverse, crazy country.
 categories: travel india
-image: /assets/india/IMG_20180205_135005-01.jpeg
+image: "/assets/india/IMG_20180205_135005-01.jpeg"
 show_info: true
 show_subscribe_info: true
 ---
@@ -18,7 +19,7 @@ Don't believe me? I'll show you.
 
 We wait. He's nowhere to be seen, so we contact the hostel who get through to him. We wait some more and he finally comes. I never quite understood what happened, but I think that he left thinking we weren't coming.
 
-After a 40 minute journey in the back of a van in which we thought we might die at any moment because here they don't seem to have _any_ rules of the road, we finally make it to our hostel, located right in the heart of New Delhi, hidden 20 metres or so down a little alley, away from the chaotic street.
+After a 40 minute journey in the back of a van in which we thought we might die at any moment because here they don't seem to have _any_ rules of the road, we finally make it to our hostel, located right in the heart of New Delhi, hidden 20 metres or so down a little alley, away from the madness of the street.
 
 After checking in and chatting with the owner, we made our way up the three flights of stairs to our room. We collapsed onto our bed and quickly fell asleep, exhaused from the 13 hours of travelling.
 
@@ -47,7 +48,7 @@ The metro is definitely the easiest way to get around, as long as you don't mind
 
 Auto rickshaws, better known as tuk tuks, are a fun and inexpensive way to get around. If you've been to Asia before chances are you've already been in one. I'd recommend that you download [Grab](https://r.grab.com/grabeyygnut4) (ride-sharing app like Uber) to remove a lot of the hassle involved in trying to get to your destination and for a fair price.
 
-If you're old fashioned or if you just want to practice your bargaining skills, have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
+If you're old fashioned or if you just want to brush up on your bargaining skills, you should first have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
 
 Be aware though: unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Grab 😉.
 
@@ -85,7 +86,7 @@ _Making friends outside Lotus Temple_
 
 ### Central Park
 
-*Entry: free*. Located right in the centre of Connaught place, Central Park is a good place to go if you want to escape the madness of the city. We met an Indian guy here called Jahn and chatted for about 40 minutes. He also introduced us to a popular dish known as a thali, which was so nice it became our go to lunch for the rest of this trip. Jahn, we are eternally grateful.
+*Entry: free*. Located right in the centre of Connaught place, Central Park is a good place to go if you want to an escape from the the chaos of the city. We met an Indian guy here called Jahn and chatted for about 40 minutes. He also introduced us to a popular dish known as a thali, which was so nice it became our go to lunch for the rest of this trip. Jahn, we are eternally grateful.
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180213_151900982-01.jpeg">
 _One of many thalis we ate on our trip_
