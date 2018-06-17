@@ -50,7 +50,7 @@ Auto rickshaws, better known as tuk tuks, are a fun and inexpensive way to get a
 
 If you're old fashioned or if you just want to brush up on your bargaining skills, you should first have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
 
-Be aware though: unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Grab 😉.
+Be aware though: unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Uber 😉.
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180205_135005-01.jpeg">
 _A typical tuk tuk, somewhere, somewhen in Delhi_
