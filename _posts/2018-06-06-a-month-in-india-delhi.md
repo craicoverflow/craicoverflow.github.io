@@ -46,7 +46,7 @@ The metro is definitely the easiest way to get around, as long as you don't mind
 
 ### Tuk tuk
 
-Auto rickshaws, better known as tuk tuks, are a fun and inexpensive way to get around. If you've been to Asia before chances are you've already been in one. I'd recommend that you download [Grab](https://r.grab.com/grabeyygnut4) (ride-sharing app like Uber) to remove a lot of the hassle involved in trying to get to your destination and for a fair price.
+Auto rickshaws, better known as tuk tuks, are a fun and inexpensive way to get around. If you've been to Asia before chances are you've already been in one. I'd recommend that you download [Uber](https://www.uber.com) to remove a lot of the hassle involved in trying to get to your destination and for a fair price.
 
 If you're old fashioned or if you just want to brush up on your bargaining skills, you should first have an idea of how much it should cost. As of 2018 a tuk tuk in Delhi is Rs 25 for the first 2 kilometres and around Rs 8 per kilometre after that. Delhi Traffic Police provide this [handy calculator](https://delhitrafficpolice.nic.in/public-interface/auto-rickshaw-taxi-fare-calculator/) to tell you how much your fare should cost.
 
