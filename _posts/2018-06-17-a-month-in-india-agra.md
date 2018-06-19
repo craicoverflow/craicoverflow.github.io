@@ -25,12 +25,11 @@ _My top bunk in a 3AC carriage going from Delhi to Agra_
 The trains in India do not have any digital display or voice-over telling you when to get off and you can't rely on the schedule as the train will be running late more often than not. Use an app or website like [RailYatri](https://www.railyatri.in/) which will show you the live running status of your train. You will be completely lost without it.
 
 We pulled in to Agra Cantt railway station about an hour late. As we step off the train onto the platform we hear cries of "taxi! taxi!" directed at us. We learned that in order to get the best deal, you should avoid people like this and instead go out of the station and look for a taxi or tuk tuk by yourself.
-
-It turns out that this station only has one prepaid taxi booth with fixed prices, so it's the same price regardless of who you go with. It was expensive, so you if have internet you should use <a href="https://www.olacabs.com/" target="_blank">Ola</a> for a better deal.
+It turns out that this station only has one prepaid taxi booth with fixed prices, so it's the same price regardless of who you go with. It was expensive, so if you have internet you should use <a href="https://www.olacabs.com/" target="_blank">Ola</a> for a better deal.
 
 ## Getting around
 
-The only places in Agra you will probaby visit are the Taj Mahal and Agra Fort (another UNESCO World Heritage Site). For this the best way to get around is by tuk tuk. You can find them on every corner, now it's up to you to negotiate a good deal.
+The only places in Agra you will probably visit are the Taj Mahal and Agra Fort (another UNESCO World Heritage Site). For this the best way to get around is by tuk tuk. You can find them on every corner, now it's up to you to negotiate a good deal.
 
 ## Sightseeing
 
