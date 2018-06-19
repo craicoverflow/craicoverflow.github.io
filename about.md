@@ -4,7 +4,7 @@ title: "About"
 permalink: /about
 ---
 
-Born in England in October 1993 to Irish parents, I moved to county [Sligo](https://en.wikipedia.org/wiki/Sligo) 18 months later, where I lived right up until I was 22. I am currently in Vietnam on a backpacking trip around South Asia with my girlfriend with no idea when we will be home 😁, I will probably post here occasionally about this and that.<br/>My interests change regularly, but my favourite things in the world right now are music, travelling and programming. 
+Born in England in October 1993 to Irish parents, I moved to county [Sligo](https://en.wikipedia.org/wiki/Sligo) 18 months later, where I lived right up until I was 22. I am currently in Vietnam on a backpacking trip around South Asia with my girlfriend with no idea when we will be home 😁, I will probably post here occasionally about this and that.<br/>My interests change regularly, but my favourite things in the world right now are music, travelling and programming.
 
 17 is quite a young age to decide what career path you're going to take, but that's the way it is. I hadn't a clue what I wanted to do, so I chose software development. It wasn't a totally random choice as I always had an interest in computers, but it was still a step into the unknown. We had a computers class once a week in school, but it didn't have a purpose; the only thing we did was play games online or do homework for our other classes.
 
@@ -18,7 +18,7 @@ In my most recent job at [Qpercom](https://www.qpercom.com) I was employed as a 
 
 Before Qpercom I did a five month paid internship in Vulcan Solutions (now [Codec-dss](http://www.codec.ie)). I joined an agile team of four experienced engineers where I helped to develop Microsoft Dynamics CRM solutions and ASP.NET web applications.
 
-If you want to know more about my experience, check out my [CV](/assets/pdf/EndaPhelan.pdf}}) or [LinkedIn](https://www.linkedin.com/in/endaphelan) profile. I also have a Freelancer.com [profile](https://www.freelancer.com/u/endaphelan).
+If you want to know more about my experience, check out my [CV](/assets/pdf/EndaPhelan.pdf) or [LinkedIn](https://www.linkedin.com/in/endaphelan) profile. I also have a Freelancer.com [profile](https://www.freelancer.com/u/endaphelan).
 
 ## Education
 
@@ -28,5 +28,5 @@ The fourth year was optional - we learned ​advanced software development conce
 
 I graduated from IT Sligo in 2016, receiving an award for finishing with the highest GPA in my class.
 
-<img class="post-image post-image-1" src="/assets/jpg/graduation-award.jpg" width="500" alt="Me receiving an award for finishing with the highest grade in my class">
+<img class="post-image post-image-1" src="/assets/jpg/graduation-award.jpg" alt="Me receiving an award for finishing with the highest grade in my class">
 _Receiving an award for having with the highest grade in my class_
