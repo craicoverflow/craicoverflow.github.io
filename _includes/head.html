@@ -10,14 +10,6 @@
     gtag('config', 'UA-120307448-1');
   </script>
 
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-3274367730082895",
-      enable_page_level_ads: true
-    });
-  </script>
-
   <title>
     {{ page.title }} &middot; {{ site.title }}
   </title>
@@ -25,32 +17,29 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  {% if page.description %}
-  <meta name="description" content="{{ page.description }}">
-  {% else if page.title == 'Home' %}
-  <meta name="description" content="{{ site.description }}">
-  {% else %}
-  <meta name="description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
-  {% endif %}
-
   <!-- Twitter metadata -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@site_username">
   <meta name="twitter:creator" content="@creator_username">
-  {% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
-  {% else %}
+
+  {% if page.title == 'Home' %}
   <meta name="twitter:title" content="{{ site.title }}">
+  {% else %}
+  <meta name="twitter:title" content="{{ page.title }}">
   {% endif %}
   {% if page.url %}
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   {% endif %}
-  {% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
-  {% else if page.title == 'Home' %}
+  {% if page.title == 'Home' %}
   <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="description" content="{{ site.description }}">
+  {% endif %}
+  {% else if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="description" content="{{ page.description }}">
   {% else %}
   <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  <meta name="description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
   {% endif %}
   {% if page.image %}
   <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
