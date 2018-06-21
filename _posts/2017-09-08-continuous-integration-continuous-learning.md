@@ -23,7 +23,7 @@ Every talk gave me a reason to open my notebook and jot down notes and ideas. Th
 
 [Habitat](https://www.habitat.sh/) is an application automation framework that aims to solve crises like the one Jane finds herself in. It centers application configuration, management, and behaviour around the application itself, allowing it to be deployed and run on various infrastructure environments.
 
-<img src="/assets/posts/2017-09-08-getting-out-of-the-office-fig3.jpg" alt="Figure 3" width="550">
+<img class="post-image post-image-1" src="/assets/posts/2017-09-08-getting-out-of-the-office-fig3.jpg" alt="Figure 3">
 
 We are always looking to improve development practices at Qpercom. Currently, we are working towards adopting continuous integration into our daily practices. The first step in this process is containerizing our software using Docker, helping ensure applications deploy quickly, reliably, and consistently.
 

@@ -14,6 +14,7 @@
 
   &-picture {
     img {
+        border:6px solid $default-shade;
         border-radius: 50%;
         height:200px;
     }
