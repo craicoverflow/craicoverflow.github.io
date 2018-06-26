@@ -2,7 +2,7 @@
 title: 'One Month in India: Udaipur'
 layout: post
 categories: travel india
-image: "/assets/india/IMG_20180215_131705-01.jpeg"
+image: "/assets/india/YDXJ0517-01.jpeg"
 show_info: true
 show_subscribe_info: true
 ---
