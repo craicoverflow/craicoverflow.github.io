@@ -100,4 +100,4 @@ _One of the performances during a one hour long folk show_
 
 ## Moving on
 
-We were sad to leave Udaipur, but after four days here it was time to move on. Next we went to Mumbai, India's largest city. Home to the world's most expensive home, the largest slum in Asia and Bollywood: this is a city of extremes.
+We were sad to leave Udaipur, but after four days here it was time to move on. Next we travel to Mumbai, India's largest city. Home to the world's most expensive home, the largest slum in Asia and Bollywood; this is a city of extremes.
