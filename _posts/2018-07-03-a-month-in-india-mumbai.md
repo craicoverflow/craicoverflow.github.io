@@ -7,7 +7,7 @@ show_info: true
 show_subscribe_info: true
 ---
 
-Mumbai holds the title of being India's largest city, with an estimated population of around 24 million. The commercial centre of India, home to Asia's largest (and most expensive) slum, the world's most expensive home and Bollywood; this is a city of extremes.
+Mumbai holds the title of being India's largest city, with an estimated population of around 24 million. The commercial centre of India, home to Asia's largest slum, the world's most expensive home and Bollywood; this is a city of extremes.
 
 We ended up staying five nights here. This seems like a lot (and it is), but it was just the awkward timings of our arrival and departure that caused this. We flew from Udaipur and arrived at about 20:00 on 15th February and our onward train was at 05:00 on 20th February. In reality we had four full days to explore the city.
 
