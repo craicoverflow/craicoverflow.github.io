@@ -34,7 +34,7 @@ The best way I can describe Delhi is an assault on all of your senses; the stron
 
 19 million people (4x the population of Ireland) squeezed in to an area of less that 1,500km², India's capital has it all.
 
-## Getting Around
+## Getting around
 
 There are plenty of ways to get around Delhi. There are buses, taxis, tuk tuks, the metro, and of course walking. Some are easy, some are difficult. These are the ways we tried and can confidently recommend.
 
@@ -61,7 +61,7 @@ If you would like to walk in Delhi, you need to be very aware of your surroundin
 
 Observe how the locals do it, or better yet go along with them. Traffic won't stop - the best thing to do is cross bit by bit - it's perfectly normal to wait in the middle of the road for another opening.
 
-## Sightseeing
+## Things to do
 
 We only had two full days to explore the city so we had to choose wisely when deciding what to see.
 
