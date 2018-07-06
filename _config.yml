@@ -4,7 +4,7 @@ description:    "Enda. 24. Irish. Programmer. Traveller. Enjoying life. Read all
 baseurl:        ""
 url:            https://endaphelan.me
 logo:           /assets/jpg/Enda.jpg
-lang:           en_IE
+lang:           en
 
 # GitHub
 github:
