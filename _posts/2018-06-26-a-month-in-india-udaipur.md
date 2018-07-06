@@ -23,7 +23,7 @@ _Let's see where this street leads to_
 
 <img class="post-image post-image-1" src="/assets/india/IMG_20180213_154646.jpg">
 
-Most activites and sights of interest are located in and around the old city. If you need to go further afield to the new city or if you're just tired of walking around you can easily find a tuk tuk.
+Most activities and sights of interest are located in and around the old city. If you need to go further afield to the new city or if you're just tired of walking around you can easily find a tuk tuk.
 
 We walked nearly everywhere in Udaipur. Most streets and alleys have something interesting that make them worth walking down. Many have some form of street art; styles varied from your typical modern street "graffiti" to some traditional Rajput-style murals like in the picture below. Other than that you will see animals chilling in the sun or street vendors plying their trade throughout the day.
 
