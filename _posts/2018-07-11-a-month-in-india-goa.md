@@ -51,7 +51,7 @@ Even with all of the people around, the beach never seemed to get very busy. Thi
 
 ### Where we stayed
 
-We stayed which sits right on the beach called [Velvet Sunset](http://velvetsunset.com). This place was great, the staff were really helpful and it has a great restaurant and bar.
+We stayed in a resort which sits right on the north part of the beach called [Velvet Sunset](http://velvetsunset.com). This place was great, the staff were really helpful and it has a great restaurant and bar.
 
 From the porch of our simple wooden hut you could see the ocean. We went with the cheapest option available when booking our room, which got us a fan and cold, salty shower!
 
