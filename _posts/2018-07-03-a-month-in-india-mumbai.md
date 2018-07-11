@@ -2,7 +2,7 @@
 title: 'One Month in India: Mumbai'
 layout: post
 categories: travel india
-image: "/assets/india/IMG_20180215_131705-01.jpeg"
+image: "https://farm6.staticflickr.com/5573/31480292685_d1f44de6a6_b.jpg"
 show_info: true
 show_subscribe_info: true
 ---
