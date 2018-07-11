@@ -2,7 +2,7 @@
 title:  'One Month in India: Goa'
 layout:  post
 categories:  travel india
-image:  "https://i.imgur.com/JRpT5Vd.jpg"
+image:  "/assets/india/JRpT5Vd.jpg"
 show_info:  true
 show_subscribe_info:  true
 ---
