@@ -62,6 +62,9 @@ plugins:
 permalink:      /:categories/:title
 paginate:       5
 
+# Images
+image_cdn:      https://i.imgur.com
+
 defaults:
   -
     scope:
