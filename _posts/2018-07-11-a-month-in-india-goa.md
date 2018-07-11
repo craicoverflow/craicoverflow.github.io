@@ -26,15 +26,15 @@ _A tiny snake we found at the entrance to Arrosim beach_
 
 At the entrance to the beach there is a restaurant called _Star fish beach shack_. We ate here on both days as there weren't many options in the area, but also because of the great seafood, sound owners and free sunbeds for customers!
 
-<img  src="{{site.image_cdn}}/HKfubbR.jpg"  class="post-image post-image-1">
+<img src="{{site.image_cdn}}/HKfubbR.jpg"  class="post-image post-image-1">
 _Fresh red snapper and chips from Star fish beach shack_
 
 <img src="{{site.image_cdn}}/bgQwh9y.jpg" class="post-image post-image-1">
-_The sun preparing to set at Arrosim beach_
 
 The sunsets at Arrosim beach are the best that I have seen anywhere. It's easy to get a front row seat and watch as the sun gradually changes to a burning shade of red, before disappearing into the Arabian Sea directly in front of you, bringing daytime with it.
 
-<img  src="{{site.image_cdn}}/u6FpEYv.jpg"  class="post-image post-image-1">
+<img src="{{site.image_cdn}}/u6FpEYv.jpg"  class="post-image post-image-1">
+_The sun preparing to set at Arrosim beach_
 
 ### Where we stayed
 
