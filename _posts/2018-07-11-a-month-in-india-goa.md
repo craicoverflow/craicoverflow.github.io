@@ -68,7 +68,7 @@ Once you get to your village or town you will easily be able to walk everywhere 
 
 ## Moving on
 
-Our only regret about Goa is that we didn't have give ourselves more time here. We loved it and easily could have stayed for another week or more just living a simple beach life.
+Our only regret about Goa is that we didn't give ourselves more time here. We loved it and easily could have stayed for another week or more just living a simple beach life.
 
 So technically we went to Kerala after Goa, but remember we left in the middle for a few days to visit Hampi, an ancient city which was once the capital of the Vijayanagara Empire and is now a UNESCO World Heritage Site.
 
