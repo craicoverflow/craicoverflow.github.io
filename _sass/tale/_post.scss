@@ -44,8 +44,9 @@
   }
 
   &-tags {
-    margin-top: 8px;
     a {
+      margin-top: .5rem;
+      display: inline-block;
       border: 3px solid $default-color;
       font-family: $sans-serif;
       color: white;
