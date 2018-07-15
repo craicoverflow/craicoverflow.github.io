@@ -7,11 +7,12 @@ categories: travel india
 image: "/assets/india/IMG_20180205_161449-01.jpeg"
 show_info: true
 show_subscribe_info: true
+tags: india travel backpacking delhi
 ---
 
 *February 4th, 17:50*. We leave the runway at Dublin Airport, starting our journey to South Asia. Five countries, six months. First stop - India.
 
-What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, **crazy** country. 
+What can I say? A lifetime wouldn't be enough to explore this exciting, diverse, **crazy** country.
 
 Don't believe me? I'll show you.
 

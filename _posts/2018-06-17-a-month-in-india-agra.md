@@ -5,6 +5,7 @@ categories: travel india
 image: "/assets/india/IMG_20180208_070321.jpg"
 show_info: true
 show_subscribe_info: true
+tags: india travel backpacking agra tajmahal
 ---
 
 When people visit Agra - the second stop on India's Golden Triangle - they are not coming to see the city that 1.6 million people call home.
