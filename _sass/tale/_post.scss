@@ -38,9 +38,34 @@
   &-image-2 {
     width: 300px;
   }
+
+  &-content {
+    margin-bottom: 20px;
+  }
+
+  &-tags {
+    margin-top: 8px;
+    a {
+      border: 3px solid $default-color;
+      font-family: $sans-serif;
+      color: white;
+      background: $default-color;
+      font-weight: 600;
+      padding-top: 6px;
+      padding-bottom: 6px;
+      padding-left:10px;
+      padding-right: 10px;
+      border-radius: 20px;
+    }
+    a:hover {
+      text-decoration: none !important;
+      background: $default-shade;
+      border-color: $default-shade;
+    }
+  }
   
   &-subscribe {
-    margin-top: 70px;
+    margin-bottom: 20px;
     font-size: 1.1rem;
   }
 

@@ -49,6 +49,11 @@
   <meta name="twitter:image" content="{{ site.url }}{{ site.logo }}">
   {% endif %}
 
+  <!-- If this page has any tags collect them -->
+  {% if site.tags != "" %}
+    {% include collect_tags.html %}
+  {% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
     crossorigin="anonymous">

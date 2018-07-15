@@ -139,3 +139,18 @@ footer {
     margin-top:30px;
   }
 }
+
+.divider {
+  border-top: .5px solid $grey-2;
+  font-family: $serif-secondary;
+  padding-top: 2rem;
+  position: relative;
+  text-align: center;
+}
+
+.line {
+  border-top: 0.4rem solid $default-shade;
+  display: block;
+  margin: 0 auto 2rem;
+  width: 4rem;
+}

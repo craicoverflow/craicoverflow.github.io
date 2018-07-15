@@ -24,12 +24,24 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
-  {{ content }}
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="divider"></div>
 
   {% if page.show_subscribe_info == true %}
     {% include subscribe_info.html %}
   {% endif %}
 
+  <div class="divider"></div>
+
+  <div class="post-tags">
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <span class="post-tag"><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></span>
+    {% endfor %}
+  </div>
 </div>
 
 <div class="pagination">

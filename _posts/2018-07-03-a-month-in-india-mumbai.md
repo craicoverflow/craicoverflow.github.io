@@ -5,6 +5,7 @@ categories: travel india
 image: "/assets/india/IMG_20180216_140726-01.jpeg"
 show_info: true
 show_subscribe_info: true
+tags: india travel backpacking mumbai
 ---
 
 Mumbai holds the title of being India's largest city, with an estimated population of around 24 million. The commercial centre of India, home to Asia's largest slum, the world's most expensive home and Bollywood; this is a city of extremes.

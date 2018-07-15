@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="tag">
+    <h1 class="tag-title">Posts tagged: <i>{{page.tag}}</i></h1>
+    <div class="line"></div>
+    <div class="tag-catalogue">
+      {% for post in site.tags[page.tag] %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+          <div>
+            <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+            <span class="catalogue-time"> &middot; {% include read_time.html %}</span>
+            <h2 class="catalogue-title">{{ post.title }}</h2>
+            <div class="catalogue-line"></div>
+    
+            <p>
+              {{ post.content | strip_html | truncatewords: 30 }}
+            </p>
+    
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+    <div class="divider"></div>
+</div>
