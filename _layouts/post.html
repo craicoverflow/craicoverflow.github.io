@@ -28,20 +28,23 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="divider"></div>
 
   {% if page.show_subscribe_info == true %}
+  <div class="divider"></div>
     {% include subscribe_info.html %}
+
   {% endif %}
 
-  <div class="divider"></div>
 
+  {% if page.tags %}
   <div class="post-tags">
+    <div class="divider"></div>
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
       <span class="post-tag"><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></span>
     {% endfor %}
   </div>
+  {% endif %}
 </div>
 
 <div class="pagination">
