@@ -58,7 +58,7 @@ _These tourists we met were in awe of what they were seeing_
 
 ### Matanga Hill
 
-If you ever decide to come here you put _climb Matanga Hill_ on your list of things to do. It is the highest point in all of Hampi so you truly get a unique viewpoint of this ancient city, and on a clear day you can see for miles around. It's not very difficult to climb, but the heat and humidity of the day poses the greatest challenge to you making it to the top.
+If you ever decide to come put _Climb Matanga Hill_ on your _Things I must do in Hampi_ list. It is the highest point in all of Hampi so you truly get a unique viewpoint of this ancient city, and on a clear day you can see for miles around. It's not very difficult to climb, but the heat and humidity of the day poses the greatest challenge to you making it to the top.
 
 <img src="{{site.image_cdn}}/1nLaESx.jpg" class="post-image post-image-1"/>
 _Beginning the ascent of Matanga Hill_
@@ -71,7 +71,7 @@ _How about that for a view?_
 <img src="{{site.image_cdn}}/3ntekB1.jpg" class="post-image post-image-1"/>
 _Okay, one last time. These are small… but the ones out there are far away_
 
-The views from the summit of this giant hill of boulders were simply breathtaking. In the distance we could make out Virupaksha Temple, standing at 49 metres high but made to look 49 about millimetres from up here.
+The views from the summit of this giant hill of boulders were simply breathtaking. In the distance we could make out Virupaksha Temple, standing at 49 metres high but made to look 49 millimetres tall from up here.
 
 Maybe it was just the time of day, but there was nobody else here except for us and Gareth from New Zealand who we met halfway up. No waiting for someone to take their selfies so we could walk past them before waiting for the next person to take their selfies so we could walk past them.
 
@@ -82,4 +82,4 @@ _"Hey I think I can see my house from here!"_
 
 Once again, we felt that we didn't give ourselves enough time here. I feel that there is unfinished business between me and Hampi, and I definitely want to return and take my sweet time to explore it all and soak everything in. Nonetheless, what a spectacular place. Go here. Do it.
 
-Back to Goa after this, but I've <a href="/travel/india/a-month-in-india-goa">already talked about that</a>. So next we will be going to our final state (😞): Kerala. There's plenty to see and do here, but we decided to slow it right down and limit our last week in India to two places - Kochi and Kovalam.
+Back to Goa after this, but I've <a href="/travel/india/a-month-in-india-goa" target="_blank">already talked about that</a>. So next we will be going to our final state (😞): Kerala. There's plenty to see and do here, but we decided to slow it right down and limit our last week in India to two places - Kochi and Kovalam.
