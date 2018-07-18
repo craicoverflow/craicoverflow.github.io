@@ -82,4 +82,4 @@ _"Hey I think I can see my house from here!"_
 
 Once again, we felt that we didn't give ourselves enough time here. I feel that there is unfinished business between me and Hampi, and I definitely want to return and take my sweet time to explore it all and soak everything in. Nonetheless, what a spectacular place. Go here. Do it.
 
-Back to Goa after this, but I've <a href="/travel/india/a-month-in-india-goa">already talked about that</a>. So next we will be going to our final state (😞): Kerala. There's plenty to see and do here, but we decided to slow it right down and limit our last week in India to two places - Kochi and Kovalam.
+Back to Goa after this, but I've <a href="/travel/india/a-month-in-india-goa" target="_blank">already talked about that</a>. So next we will be going to our final state (😞): Kerala. There's plenty to see and do here, but we decided to slow it right down and limit our last week in India to two places - Kochi and Kovalam.
