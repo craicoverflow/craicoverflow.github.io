@@ -8,7 +8,7 @@ show_subscribe_info: true
 tags: india travel backpacking hampi temple
 ---
 
-Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much in the village itself, but that's not what you come to see. Things used to be very different in Hampi; this was once a wealthy and thriving city, which became the capital of the Vijayanagara Empire in the 14th century until 1565 when the empire was defeated and the city destroyed.
+Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see. Things used to be very different in Hampi; this was once a wealthy and thriving city, which became the capital of the Vijayanagara Empire in the 14th century until 1565 when the empire was defeated and the city destroyed.
 
 Now a UNESCO World Heritage Site, Hampi is dotted with hundreds of Hindu temples, structures and monuments, all in varying states of ruin, over an area covering 26km². It is surrounded by a stunning and unusual natural landscape of sandstone boulder hills that stretch farther than the eye can see.
 
@@ -39,7 +39,7 @@ We found a small Hampi guidebook book for sale in our hotel and bought it for ar
 
 It's totally free to get in to Hampi and to see most of the ruins, which is pretty great. However, if you want to see some of the main attractions there is a fee of Rs. 500 (€6.28) for foreigners. Virupaksha Temple is only an additional Rs. 2 to go inside but we didn't even bother as we were a little bit strapped for time.
 
-That is an unbelievably fair price when you see that a one day pass for the not too dissimilar Angkor Archeological Park in Cambodia is €32. Angkor is amazing and all but there is no way that it's five times better, and in some ways I preferred Hampi.
+That is an unbelievably fair price when you see that a one day pass for the not too dissimilar Angkor Archeological Park in Cambodia is €32. Angkor is amazing and all but there is no way that it's five times better, and in some ways I actually preferred Hampi.
 
 <img src="{{site.image_cdn}}/3VuLbvX.jpg" class="post-image post-image-1">
 _Virupaksha Temple to the left, boulder hills to the right_
