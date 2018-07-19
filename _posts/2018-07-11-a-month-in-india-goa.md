@@ -2,7 +2,7 @@
 title:  'One Month in India: Goa'
 layout:  post
 categories:  travel india
-image:  "/assets/india/JRpT5Vd.jpg"
+image:  "JRpT5Vd.jpg"
 show_info:  true
 show_subscribe_info:  true
 tags: india travel backpacking goa

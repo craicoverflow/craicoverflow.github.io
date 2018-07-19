@@ -2,7 +2,7 @@
 title: 'One Month in India: Agra'
 layout: post
 categories: travel india
-image: "/assets/india/IMG_20180208_070321.jpg"
+image: "OITOh71.jpg"
 show_info: true
 show_subscribe_info: true
 tags: india travel backpacking agra tajmahal
@@ -20,7 +20,7 @@ We found it _really_ difficult to even reach a stage where we could purchase our
 
 Seriously...it took over a month to register on the official train reservation website. I even went to the length of [contacting the Minister of Railways](https://twitter.com/PhelanEnda/status/951129157370630145), which lead nowhere. I will explain what we did to resolve the issue in depth another time, but if you need help more urgently <a href="/contact">contact me</a> and I'll try to help you out.
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180207_170743.jpg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/Z5TGJ3c.jpg">
 _My top bunk in a 3AC carriage going from Delhi to Agra_
 
 The trains in India do not have any digital display or voice-over telling you when to get off and you can't rely on the schedule as the train will be running late more often than not. Use an app or website like [RailYatri](https://www.railyatri.in/) which will show you the live running status of your train. You will be completely lost without it.
@@ -48,22 +48,22 @@ Luckily our guide worked his charm on the guards and we were allowed to bring th
 
 We probably would have made it into the palace grounds in time for sunrise, but having a guide was useful because he brought us to the best place to watch the sun rising over the palace. If you want to see it, head towards the mosque situated to the left of the Taj Mahal.
 
-<img src="/assets/india/IMG_20180208_070321.jpg" class="post-image post-image-1">
+<img src="{{site.image_cdn}}/OITOh71.jpg" class="post-image post-image-1">
 _The Taj Mahal stands out proudly from the thick morning fog_
 
 As you can probably see from the picture above there is another benefit of coming this early...very few people around! Come at noon and the paths either side of the water will be crowded with tourists, ruining that perfect shot.
 
-<img src="/assets/india/IMG_20180208_073224.jpg" class="post-image post-image-1">
+<img src="{{site.image_cdn}}/X9jVq46.jpg" class="post-image post-image-1">
 _What a sight: the sun rising from behind the Taj Mahal_
 
 We parted ways with our guide after about two hours. If you have the money, hiring a guide is a good idea as you will learn some things you may not have known about this iconic place without some research. Be sure to only hire an approved guide who show their official identity cards.
 
-<img src="/assets/india/IMG_20180208_075610-01.jpeg" class="post-image post-image-1">
+<img src="{{site.image_cdn}}/GdSiaBE.jpg" class="post-image post-image-1">
 _Our tour guide knew all the best places to take photos_
 
 We found a seat, sat and just watched for a little while. Watched the crowds slowly thicken and the noise level increase, the sun continue to rise high into the sky, and the shifting colours of the Taj Mahal's marble surface, influenced by the changing colour of the sun.
 
-<img src="/assets/india/IMG_20180208_081133.jpg" class="post-image post-image-1">
+<img src="{{site.image_cdn}}/vabHNCu.jpg" class="post-image post-image-1">
 _This photo makes you realise how big the Taj Mahal is_
 
 Once outside the palace grounds you will notice something unusual for India (or most places for that matter). It's quiet. Polluting vehicles are not allowed within 500 metres of the Taj Mahal, all you will see here are bicycles and electric vehicles. This is a great idea as you really notice the serenity from within the palace grounds.
@@ -76,12 +76,12 @@ We walked around but couldn't find it (and didn't have a working SIM card to use
 
 _Entry: Rs 550_. Just 2.5 kilometres away, Agra Fort is worth the short journey by tuk tuk. It was the residence of the Mughal Dynasty until 1638, before they moved to Delhi because of soaring rent prices and expensive child care.
 
-<img src="/assets/india/IMG_20180208_100849-01.jpeg" class="post-image post-image-1">
+<img src="{{site.image_cdn}}/1PjQGFj.jpg" class="post-image post-image-1">
 _By 11:00am the entrance to Agra Fort was already bustling with tourists_
 
 Inside the grounds you will find more impressive architecture and well maintained gardens. You might come across two maintenance workers offering you the chance to hold and feed some squirrels. Be aware that they will demand money, but only _after_ you have fed and held them. I'm hesitant to call it a scam because most people will cop this before accepting the offer. I am not most people.
 
-<img src="/assets/india/IMG_20180208_103308883.jpg" class="post-image post-image-2">
+<img src="{{site.image_cdn}}/0csji0R.jpg" class="post-image post-image-2">
 _Best friends forever_
 
 ## Moving on

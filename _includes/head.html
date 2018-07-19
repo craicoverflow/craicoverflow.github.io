@@ -11,7 +11,7 @@
   </script>
 
   <title>
-    {{ page.title }} &middot; {{ site.title }}
+    {{ page.title }} - {{ site.title }}
   </title>
 
 
@@ -44,7 +44,7 @@
   <meta name="description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
   {% endif %}
   {% if page.image %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.image_cdn }}/{{ page.image }}">
   {% else %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.logo }}">
   {% endif %}

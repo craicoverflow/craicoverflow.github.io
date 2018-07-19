@@ -2,7 +2,7 @@
 title: 'One Month in India: Hampi'
 layout: post
 categories: travel india
-image: "/assets/india/IMG_20180223_141252-01.jpeg"
+image: "0hUJaxY.jpg"
 show_info: true
 show_subscribe_info: true
 tags: india travel backpacking hampi temple

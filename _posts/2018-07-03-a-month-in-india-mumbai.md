@@ -2,7 +2,7 @@
 title: 'One Month in India: Mumbai'
 layout: post
 categories: travel india
-image: "/assets/india/IMG_20180216_140726-01.jpeg"
+image: "zUvnyOs.jpg"
 show_info: true
 show_subscribe_info: true
 tags: india travel backpacking mumbai
@@ -46,14 +46,14 @@ Now I'm not suggesting that you can walk to anywhere in the city (far from it), 
 
 _Entry: free_. Built during the colonial era to commemorate the visit of King George V in 1911, this is an impressive structure. You can't get close to it or walk under though, which was a bit disappointing. I wonder will they contruct a similar gateway to commemorate our visit? 😜
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180216_131553-01.jpeg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/QZg6zVg.jpg">
 _My uninspiring shot of the Gateway of India_
 
 ### Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
 
 _Entry: Rs 300_. Please don't ask me to pronounce that. Thankfully you can refer to it by its abbreviation, CSMVS. This is the main museum in Mumbai, displaying around 50,000 art, history and archeological artefacts. This is too much for me as I get tired of museums after about two hours, so we didn't stick around to see them all.
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180216_140726-01.jpeg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/zUvnyOs.jpg">
 _Chhatrapati Shivaji Maharaj Vastu Sangrahalaya_
 
 ### Dharavi

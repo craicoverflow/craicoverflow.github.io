@@ -2,7 +2,7 @@
 title: 'One Month in India: Delhi'
 layout: post
 categories: travel india
-image: "/assets/india/IMG_20180205_161449-01.jpeg"
+image: "QdBjse2.jpg"
 show_info: true
 show_subscribe_info: true
 tags: india travel backpacking delhi
@@ -22,7 +22,7 @@ After a 40 minute journey in the back of a van in which we thought we might die 
 
 After checking in and chatting with the owner, we made our way up the three flights of stairs to our room. We collapsed onto our bed and quickly fell asleep, exhaused from the 13 hours of travelling.
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180205_161449-01.jpeg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/QdBjse2.jpg">
 _A street vendor selling fresh juice near our hostel_
 
 Back in Ireland when we were still in the planning phase of this trip, a lot of what we read online strongly recommended against going to Delhi first, as for many people the city can be overwhelming. We decided to ignore this advice, mainly because we already had our flights booked. 
@@ -41,7 +41,7 @@ There are plenty of ways to get around Delhi. There are buses, taxis, tuk tuks, 
 
 We had a couple of days to explore the city and be your typical tourists taking photos of everything. Luckily the hostel staff were helpful and told us that the best way to get around is the metro. A one day tourist card is only Rs 100 (€1.27), or Rs 250 (€3.17) for three days. That will get you to within a few minutes walk from most places in the city and it has an unlimited number of uses.
 
-The metro is definitely the easiest way to get around, as long as you don't mind tight spaces. If you decide that you want to give it a go, check out [this](/assets/india/Delhi_Metro_System.jpg) detailed map we found on Wikipedia.
+The metro is definitely the easiest way to get around, as long as you don't mind tight spaces. If you decide that you want to give it a go, check out [this](/assets/pdf/Delhi_Metro_System.jpg) detailed map we found on Wikipedia.
 
 ### Tuk tuk
 
@@ -51,12 +51,12 @@ If you're old fashioned or if you just want to brush up on your bargaining skill
 
 Be aware though: unless the taxi is using a meter you will always pay more for it than the locals. Just another reason to use Uber 😉.
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180205_135005-01.jpeg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/KfJLIhh.jpg">
 _A typical tuk tuk, somewhere, somewhen in Delhi_
 
 ### Walking
 
-If you would like to walk in Delhi, you need to be very aware of your surroundings. Vehicles will drive just about anywhere and will often get waaay too close for comfort. Probably the toughest thing to overcome when you are new to the city is trying to cross roads. It took us a while to become confident at it. 
+If you would like to walk in Delhi, you need to be very aware of your surroundings. Vehicles will drive just about anywhere and will often get waaay too close for comfort. Probably the toughest thing to overcome when you are new to the city is trying to cross roads. It took us a while to become confident at it.
 
 Observe how the locals do it, or better yet go along with them. Traffic won't stop - the best thing to do is cross bit by bit - it's perfectly normal to wait in the middle of the road for another opening.
 
@@ -72,7 +72,7 @@ We only had two full days to explore the city so we had to choose wisely when de
 
 *Entry: free*. This is a nice, modern temple. It looks impressive from the outside, but once you get inside there isn't much to see or do, but if you are nearby it's worth checking out.
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180206_152821498_HDR.jpg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/GT6v1gS.jpg">
 _Making friends outside Lotus Temple_
 
 ### The Garden of the Five Senses
@@ -87,7 +87,7 @@ _Making friends outside Lotus Temple_
 
 *Entry: free*. Located right in the centre of Connaught place, Central Park is a good place to go if you want to an escape from the the chaos of the city. We met an Indian guy here called Jahn and chatted for about 40 minutes. He also introduced us to a popular dish known as a thali, which was so nice it became our go to lunch for the rest of this trip. Jahn, we are eternally grateful.
 
-<img class="post-image post-image-1" src="/assets/india/IMG_20180213_151900982-01.jpeg">
+<img class="post-image post-image-1" src="{{site.image_cdn}}/DwMmwdc.jpg">
 _One of many thalis we ate on our trip_
 
 ## Moving on
