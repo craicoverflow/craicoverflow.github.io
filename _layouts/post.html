@@ -28,13 +28,19 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="divider"></div>
+  
+   {% if page.show_share_buttons != false %}
+   <div class="post-share">
+    {% include share_buttons.html %}
+   </div>
+  {% endif %}
 
   {% if page.show_subscribe_info == true %}
   <div class="divider"></div>
     {% include subscribe_info.html %}
 
   {% endif %}
-
 
   {% if page.tags %}
   <div class="post-tags">
