@@ -21,7 +21,7 @@ Email me: mail@endaphelan.me
 - Implement a Jekyll theme ✔️
 - Social links ✔️
 - Article tagging ✔️
-- Links to share articles on social media
+- Links to share articles on social media️ 
 - Set up a mailing list with Mailchimp ✔️
 
 ## Should do (improvements)
@@ -30,3 +30,4 @@ Email me: mail@endaphelan.me
 - Host images for articles on Imgur to improve load time ✔️
 - Add mailing list sign up form to article (inline) instead of directing users to another page. I imagine it might have a better sign up rate then.
 - Create a custom 404 page
+- Add Disqus to comments section
