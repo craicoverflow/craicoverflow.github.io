@@ -133,6 +133,12 @@ footer {
         color: $color-twitter-2;
       }
     }
+    a.social-youtube {
+      color: $color-youtube;
+    }
+    :hover {
+      color: $color-youtube-2;
+    }
   }
 
   .copyright {
