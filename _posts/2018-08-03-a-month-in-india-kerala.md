@@ -10,9 +10,9 @@ tags: india travel backpacking kerala beach elephant kochi kovalam
 
 Kerala. God's Own Country. Actually that title belongs to the Wicklow Mountains in Ireland but we'll forgive them for that one. Just this once. After all, there are [40 Venice of the Norths](https://en.wikipedia.org/wiki/List_of_places_called_Venice_of_North), [24 Paris of the Easts](https://en.wikipedia.org/wiki/Paris_of_the_East), [50 Eighth Wonders of the World](https://en.wikipedia.org/wiki/Eighth_Wonder_of_the_World) and [another six places](https://en.wikipedia.org/wiki/God%27s_Own_Country) in the world that God himself calls his own.
 
-I can see why God likes Kerala. Waterfalls, beaches, rainforests, national parks, mountains, picture-perfect tea plantations and a network of freshwater rivers, canals, lakes and lagoons collectively known as the "Kerala Backwaters" (and Venice of the East) - there's something to suit all interests.
+Waterfalls, beaches, rainforests, national parks, mountains, picture-perfect tea plantations and a network of freshwater rivers, canals, lakes and lagoons collectively known as the "Kerala Backwaters" (and Venice of the East). I can see why God likes Kerala.
 
-Sadly we didn't see the majority of what I just listed. For the final leg of the trip we decided to slow it right down in a country that doesn't know the meaning of the word "slow" - and focus our adventures on two places: Kochi and Kovalam. 
+Sadly we didn't see the majority of what I just listed. For the final leg of the trip we decided to slow it right down in a country that doesn't know the meaning of the word "slow" - and focus our adventures on two places: Kochi and Kovalam.
 
 We came to this decision while scanning over the itinerary we had created, which revealed a packed schedule - in transit every two or three days and spending over 50 hours sitting, standing or laying in a train.
 
