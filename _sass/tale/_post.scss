@@ -31,8 +31,12 @@
     border:6px solid $default-shade;
   }
 
+  &-image-1 {
+    width: 47rem;
+  }
+
   &-image-2 {
-    width: 300px;
+    width: 28rem;
   }
 
   &-content {
@@ -103,5 +107,9 @@
     vertical-align: text-top;
     padding: 0;
     margin: 0;
+  }
+
+  &-iframe {
+    text-align: center;
   }
 }
