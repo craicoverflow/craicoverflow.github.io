@@ -2,7 +2,7 @@
 title: 'One Month in India: Kerala'
 layout: post
 categories: travel india
-image: "0hUJaxY.jpg"
+image: "YriqAQH.jpg"
 show_info: true
 show_subscribe_info: true
 tags: india travel backpacking kerala beach elephant kochi kovalam
