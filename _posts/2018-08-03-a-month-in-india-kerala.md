@@ -158,4 +158,4 @@ _Vizhinjam Lighthouse. 📸 by Sarah_
 
 अलविदा. गुडबाय. വിട ... Goodbye India! What an experience. What a month. What a country. Our only regret is that we didn't give it enough time. Kerala alone deserves at least a couple of weeks if you want to explore all it has to offer. 
 
-This may be our final destination in India, but there's still one more post to come. Next week (or the week after) I'll have a trip summary with some tips and a one minute highlights video. See you then 😉.
+This may be our final destination in India, but there's still a few more posts to come. Next week (or the week after) I'll show you a one minute highlights video that I made. See you then 😉.
