@@ -21,7 +21,7 @@ Email me: mail@endaphelan.me
 - Implement a Jekyll theme ✔️
 - Social links ✔️
 - Article tagging ✔️
-- Links to share articles on social media️ 
+- Links to share articles on social media️ ️️✔
 - Set up a mailing list with Mailchimp ✔️
 
 ## Should do (improvements)
