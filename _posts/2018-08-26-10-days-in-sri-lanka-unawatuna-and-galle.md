@@ -13,7 +13,7 @@ Sri Lanka only came on our radar when we were booking our flight from India to T
 
 After a short flight we were on the ground again and walking through Colombo Airport in search of a booth to buy some local SIM cards and reconnect to the grid. Prior research told us that <a href="https://www.dialog.lk/" target="_blank">Dialog</a> is the best network for 4G coverage, which is all we really cared about when it came to choosing a network.
 
-After that the next thing to do was find an ATM and withdraw some rupees. You know the way ATMs normally give you back your card before producing the cash? The one I used didn't must have missed that day in ATM University, so I ended up leaving my travel card in the ATM and didn't realise until several hours later when were over 120 kilometres away.
+After that the next thing to do was find an ATM and withdraw some rupees. You know the way ATMs normally give you back your card before producing the cash? The one I used must have missed that day in ATM University, so I ended up leaving my travel card in the ATM and didn't realise until several hours later when there was over 120 kilometres of highway between us.
 
 Good job I had opened an account with <a href="https://n26.com/en-eu/bank-account">N26</a> before leaving. I literally just had to open their app on my phone and block all withdrawals and transactions with the tap of a button. If you're in the EU you should definitely consider getting an N26 Black card if you are going to be abroad for a long time. It's ~~€5.90/month~~ **€9.90/month** but you will make up that cost with fee-free payments and withdrawals and an Allianz insurance package! This is not an ad, it's just really really good.
 
@@ -59,7 +59,7 @@ The journey was great though, and somewhat worth the price for the comfort and c
 
 #### Walking
 
-Once you get to Unawatuna you can easily walk everywhere. I would recommend staying near the beach though as you'll never need to walk any longer than 10 minutes! Our hostel was about a 30 minute walk from the beach. Most of this walk is along the A2 Highway that connects Colombo to the south of the country. This is a really busy highway with huge lorries and buses storming past at every hour - I wouldn't advise walking on it at night as it's a bit dangerous...though we did once.
+Once you get to Unawatuna you can easily walk everywhere. I would recommend staying near the beach though as you'll never need to walk any longer than 10 minutes! Our hostel was about a 30 minute walk from the beach. Most of this walk is along the A2 Highway that connects Colombo to the south of the country. This is a really busy highway with huge lorries and buses thundering past at every hour - I wouldn't advise walking on it at night as it's a bit dangerous...though we did once.
 
 #### Tuk tuk
 
