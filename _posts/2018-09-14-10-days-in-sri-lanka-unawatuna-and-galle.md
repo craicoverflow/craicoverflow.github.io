@@ -2,8 +2,8 @@
 title: "10 Days in Sri Lanka: Unawatuna & Galle Fort"
 layout: post
 categories: travel sri-lanka
-description: "Highlights of our 10 day trip to Sri Lanka in 2018."
-image: "bWTo3m1.jpg"
+description: "2 days in Unawatuna and Galle during our 10 day trip to Sri Lanka in 2018."
+image: "kHT1kUQ.jpg"
 show_info: true
 show_subscribe_info: true
 tags: sri-lanka travel backpacking video beach food
