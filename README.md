@@ -29,5 +29,5 @@ Email me: mail@endaphelan.me
 - Add text beside article estimating how long an article should take to read on average, like [Medium.com](https://www.medium.com) ✔️
 - Host images for articles on Imgur to improve load time ✔️
 - Add mailing list sign up form to article (inline) instead of directing users to another page. I imagine it might have a better sign up rate then.
-- Create a custom 404 page
+- Create a custom 404 page ️️️️✔️
 - Add Disqus to comments section
