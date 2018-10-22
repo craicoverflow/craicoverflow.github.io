@@ -40,9 +40,12 @@ a {
 }
 
 blockquote {
-  border-left: .25rem solid $grey-2;
+  text-align: center;
+  margin: 0 auto;
+  display: table;
+  font-size: 1.5rem;
   color: $grey-1;
-  margin: .8rem 0;
+  margin: 2rem;
   padding: .5rem 1rem;
 
   p:last-child {
@@ -66,4 +69,8 @@ td {
 
 .st-label {
   line-height: 32px !important;
+}
+
+.default-color {
+  color: $default-color;
 }
