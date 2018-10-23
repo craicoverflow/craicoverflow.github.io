@@ -88,7 +88,7 @@ After a little while walking through the tea maze we came to an opening where a 
 
 He started bringing us a very long and unusual way, through houses until we weren't really on a path anymore. We cut our losses and turned around in the direction we came from to go back on our original path, ignoring the man's yells back at us. 
 
-We met that same couple down at the bridge later, so at least he was actually bringing people there. My feeling is that he brings people this way so that he can ask more money when they come back! My advice would be to just ignore these people, use Maps.me and you'll be fine.
+We met that same couple down at the bridge later, so at least he was actually bringing people there. My feeling is that he brings people this way so that he can ask for money when they come back! My advice would be to just ignore these people, use Maps.me and you'll be fine.
 
 Before we got to the bridge, we came across a great viewing point with a simple little tea shop, where you can sit and sip on some local tea and wait for one of the five (I think) daily trains to pass. When we got here, a scribbled timetable told us that the next train was two hours away, so we didn't wait for it. Be sure to check with your hostel before going if you want to catch one!
 
@@ -140,7 +140,7 @@ _The unusual looking King coconut 🥥_
 
 ### Little Adam's Peak
 
-Little Adam's Peak is a pretty easy hike. It attracts tourists and locals of all ages and shapes who come to take in the spectacular 360° views from atop the 1141 metre high summit, which looks down on the valley below.
+Little Adam's Peak is a pretty easy hike. It attracts tourists and locals, who come to take in the spectacular 360° views from atop the 1141 metre high summit, which looks down on the valley below.
 
 To get on the trail leading to the top you must go to the 98 Acres Resort and follow the signs from there. It's well signposted, you shouldn't get lost.
 
