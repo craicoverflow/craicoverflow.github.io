@@ -1,0 +1,76 @@
+# Site settings
+title:          Enda Phelan
+description:    "Enda. 24. Irish. Programmer. Traveller. Enjoying life. Read all about it here."
+baseurl:        ""
+url:            https://endaphelan.me
+logo:           /assets/jpg/Enda.jpg
+lang:           en
+
+# GitHub
+github:
+  username:     craicoverflow
+
+# Email
+email:          
+  username:     hello@endaphelan.me
+
+# LinkedIn
+linkedin:
+  username:     endaphelan
+
+youtube:
+  username:     UC1L26uKpDW7ulxUBSi627UQ
+
+# Instagram
+instagram:
+  username:     enda.phelan
+
+# Twitter
+twitter:        
+  username:     PhelanEnda
+  card:         summary
+
+# Author
+author:
+  name:         Enda Phelan
+  url:          https://endaphelan.me
+  email:        hello@endaphelan.me
+
+# Social links
+social:
+  name: Enda Phelan
+  links:
+    - https://twitter.com/PhelanEnda
+    - https://www.linkedin.com/in/endaphelan
+    - https://github.com/craicoverflow
+    - https://instagram.com/enda.phelan
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jemoji 
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Permalinks
+permalink:      /:categories/:title
+paginate:       5
+
+# Images
+image_cdn:      https://i.imgur.com
+
+defaults:
+  -
+    scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
