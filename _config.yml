@@ -38,7 +38,7 @@ disqus_shortname:   endaphelan
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              hello@endaphelan.me
 twitter:            PhelanEnda
 github-url:         craicoverflow
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
