@@ -5,7 +5,7 @@ categories: travel sri-lanka
 excerpt: "Tucked away in Sri Lanka's central highlands a town named Ella sits at an elevation of 1,041 metres above sea level. Traditionally this region has been known for its vast tea plantations, which is one of Sri Lanka's biggest industries."
 feature: "https://i.imgur.com/M8RDoXC.jpg"
 comments: true
-tags: [Sri Lanka, Travel, Backpacking, Ella, Tea, Bridge, Nature, Waterfall]
+tags: [Sri Lanka, Travel, Backpacking, Ella, Tea, Bridge, Nature, Waterfall, Asia]
 ---
 
 Tuckedd away in Sri Lanka's central highlands a town named Ella sits at an elevation of 1,041 metres above sea level. Traditionally this region has been known for its vast tea plantations, which is one of Sri Lanka's biggest industries. 

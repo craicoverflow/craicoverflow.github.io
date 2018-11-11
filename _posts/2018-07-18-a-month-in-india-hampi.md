@@ -2,17 +2,17 @@
 title: 'One Month in India: Hampi'
 layout: post
 categories: travel india
-image: "0hUJaxY.jpg"
-show_info: true
-show_subscribe_info: true
-tags: india travel backpacking hampi temple
+feature: "https://i.imgur.com/0hUJaxY.jpg"
+comments: true
+excerpt: "Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see."
+tags: [India, Travel, Backpacking, Hampi, Temple, Asia]
 ---
 
 Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see. Things used to be very different in Hampi; this was once a wealthy and thriving city, which became the capital of the Vijayanagara Empire in the 14th century until 1565 when the empire was defeated and the city destroyed.
 
 Now a UNESCO World Heritage Site, Hampi is dotted with hundreds of Hindu temples, structures and monuments, all in varying states of ruin, over an area covering 26km². It is surrounded by a stunning and unusual natural landscape of sandstone boulder hills that stretch farther than the eye can see.
 
-## Getting here
+Fifteen days after we touched Indian soil for the first time, our arrival to Goa marked the halfway point in our one month tour of India. ## Getting here
 
 Like everywhere else in this trip, we came here by train. Well, nearly. Hampi itself doesn't have a train station, the nearest being a 30 minute drive away in Hosapete. Because the choice of accommodation in Hampi is pretty poor we decided to base ourselves from Hosapete and make a day trip to Hampi by tuk tuk. This also allowed us to be close to the train station for our 06:20 departure time.
 

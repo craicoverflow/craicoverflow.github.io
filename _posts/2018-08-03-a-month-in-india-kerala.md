@@ -1,11 +1,11 @@
 ---
 title: 'One Month in India: Kerala'
 layout: post
+excerpt: "Kerala. God's Own Country. Actually that title belongs to the Wicklow Mountains in Ireland but we'll forgive them for that one. Just this once."
 categories: travel india
-image: "YriqAQH.jpg"
-show_info: true
-show_subscribe_info: true
-tags: india travel backpacking kerala beach elephant kochi kovalam
+feature: "https://i.imgur.com/hsUhWIF.jpg"
+comments: true
+tags: [India, Travel, Backpacking, Kerala, Beach, Elephant, Kochi, Kovalam, Asia]
 ---
 
 Kerala. God's Own Country. Actually that title belongs to the Wicklow Mountains in Ireland but we'll forgive them for that one. Just this once. After all, there are [40 Venice of the Norths](https://en.wikipedia.org/wiki/List_of_places_called_Venice_of_North), [24 Paris of the Easts](https://en.wikipedia.org/wiki/Paris_of_the_East), [50 Eighth Wonders of the World](https://en.wikipedia.org/wiki/Eighth_Wonder_of_the_World) and [another six places](https://en.wikipedia.org/wiki/God%27s_Own_Country) in the world that God himself calls his own.

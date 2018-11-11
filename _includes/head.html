@@ -54,5 +54,5 @@
     {% if page.feature %}
     {% capture feature %}{{ page.feature }}{% endcapture %}
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
-    <style type="text/css">.feature {background-size: 100%; background-image:url({{ feature }});}</style>
+    <style type="text/css">.feature {background-size: 100% 100%; background-image:url({{ feature }});}</style>
     {% endif %}

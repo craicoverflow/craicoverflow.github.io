@@ -63,7 +63,7 @@ youtube-channel:    UC1L26uKpDW7ulxUBSi627UQ
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap

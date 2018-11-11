@@ -2,11 +2,10 @@
 title: "10 Days in Sri Lanka: Unawatuna & Galle Fort"
 layout: post
 categories: travel sri-lanka
-description: "2 days in Unawatuna and Galle during our 10 day trip to Sri Lanka in 2018."
-image: "kHT1kUQ.jpg"
-show_info: true
-show_subscribe_info: true
-tags: sri-lanka travel backpacking unawatuna galle fort church beach food
+excerpt: "Sri Lanka only came on our radar when we were booking our flight from India to Thailand. We would have to catch a connecting flight in Colombo, Sri Lanka's capital anyway so we just decided to stretch the stopover to 10 days and see a bit of India's teardrop."
+feature: https://i.imgur.com/kHT1kUQ.jpg
+comments: true
+tags: [Sri Lanka, Travel, Backpacking, Unawatuna, Galle, Fort, Church, Beach, Food, Asia]
 ---
 
 Sri Lanka only came on our radar when we were booking our flight from India to Thailand. We would have to catch a connecting flight in Colombo, Sri Lanka's capital anyway so we just decided to stretch the stopover to 10 days and see a bit of India's teardrop. It's a pity we didn't research it a bit more before booking the tickets as we would have stayed a lot longer than 10 days!

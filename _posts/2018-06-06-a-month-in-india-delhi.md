@@ -2,10 +2,9 @@
 title: 'One Month in India: Delhi'
 layout: post
 categories: travel india
-image: "QdBjse2.jpg"
-show_info: true
-show_subscribe_info: true
-tags: india travel backpacking delhi
+feature: "https://i.imgur.com/KfJLIhh.jpg"
+comments: true
+tags: [India, Travel, Backpacking, Delhi, Asia]
 ---
 
 *February 4th, 17:50*. We leave the runway at Dublin Airport, starting our journey to South Asia. Five countries, six months. First stop - India.
