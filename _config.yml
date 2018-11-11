@@ -9,7 +9,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_IE
-url:                https://endaphelan.me
+url:                https://localhost:4000
 
 # Jekyll
 permalink:          /:categories/:title
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   endaphelan
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,7 +38,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              hello@endaphelan.me
 twitter:            PhelanEnda
 github-url:         craicoverflow
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -50,10 +50,10 @@ instagram:          enda.phelan
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-youtube:            UC1L26uKpDW7ulxUBSi627UQ
-#youtube-channel:   channel
+youtube-channel:    UC1L26uKpDW7ulxUBSi627UQ
+#youtube:           channel
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -68,6 +68,8 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
+  - jemoji
 
 jekyll-mentions:
     base_url: https://github.com
