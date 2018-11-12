@@ -101,4 +101,4 @@ git branch -d newtheme
 
 ## Credits
 
-This solution is from <a href="https://stackoverflow.com/a/37186333" target="_blank">this StackOverflow answer</a> by Daniel Pelsmaeker and adapted to work with the latest versions of Git, Bundler and Jekyll.
+This solution is adapted from Daniel Pelsmaekerwith's <a href="https://stackoverflow.com/a/37186333" target="_blank">answer</a> on StackOverflow to work with the latest versions of Git, Bundler and Jekyll.
