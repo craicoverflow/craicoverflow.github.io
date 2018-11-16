@@ -3,8 +3,6 @@ layout: page
 title: About Me
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 Born in England in October 1993 to Irish parents, I moved to county Sligo 18 months later, where I lived right up until I was 22.
 
