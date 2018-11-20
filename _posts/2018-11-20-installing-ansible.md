@@ -61,7 +61,7 @@ $ sudo apt-get install ansible
 
 ## MacOS
 
-See [Installing with pip](#installing-with-pip) below for instructions on how to install Ansible on a MacOS.
+See [Installing with pip](#installing-with-pip) below for instructions on how to install Ansible on MacOS.
 
 ## Arch Linux
 
