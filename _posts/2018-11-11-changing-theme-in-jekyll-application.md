@@ -2,7 +2,7 @@
 layout: post
 title:  "How to change the theme in your Jekyll application"
 date:   2018-11-11
-categories: technology programming
+categories: programming guides jekyll
 excerpt: "A step by step guide to changing theme in your Jekyll application."
 tag:
 - jekyll
