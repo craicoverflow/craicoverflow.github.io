@@ -26,6 +26,7 @@ $ export MINISHIFT_ENABLE_EXPERIMENTAL=y
 ```
 
 Then run `minishift start` with extra flags to enable catalog components:
+
 ```bash
 $ minishift start --extra-clusterup-flags "--enable=*,service-catalog,automation-service-broker,template-service-broker"
 ```
