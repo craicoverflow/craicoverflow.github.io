@@ -1,11 +1,17 @@
 ---
 title:  'One Month in India: Goa'
-excerpt: "Fifteen days after we touched Indian soil for the first time, our arrival to Goa marked the halfway point in our one month tour of India."
+summary: "Fifteen days after we touched Indian soil for the first time, our arrival to Goa marked the halfway point in our one month tour of India."
 layout:  post
 categories:  travel india
 feature:  "https://i.imgur.com/JRpT5Vd.jpg"
-comments: true
-tags: [India, Travel, Backpacking, Goa, Asia, Beach]
+blog: true
+tag:
+  - India
+  - Travel
+  - Backpacking
+  - Goa
+  - Asia
+  - Beach
 ---
 
 Fifteen days after we touched Indian soil for the first time, our arrival to Goa marked the halfway point in our one month tour of India. It also marked a halfway point in other ways: crossing the line from northern to southern India also brought a change in climate, food and cultures.

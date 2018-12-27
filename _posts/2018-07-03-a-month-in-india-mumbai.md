@@ -1,11 +1,17 @@
 ---
 title: 'One Month in India: Mumbai'
 layout: post
-excerpt: "Mumbai holds the title of being India's largest city, with an estimated population of around 24 million. The commercial centre of India, home to Asia's largest slum, the world's most expensive home and Bollywood; this is a city of extremes."
+summary: "Mumbai holds the title of being India's largest city, with an estimated population of around 24 million. The commercial centre of India, home to Asia's largest slum, the world's most expensive home and Bollywood; this is a city of extremes."
 categories: travel india
 feature: "https://i.imgur.com/zUvnyOs.jpg"
-comments: true
-tags: [India, Travel, Backpacking, Mumbai, City, Asia]
+blog: true
+tag:  
+  - India
+  - Travel
+  - Backpacking
+  - Mumbai
+  - City
+  - Asia
 ---
 
 Mumbai holds the title of being India's largest city, with an estimated population of around 24 million. The commercial centre of India, home to Asia's largest slum, the world's most expensive home and Bollywood; this is a city of extremes.

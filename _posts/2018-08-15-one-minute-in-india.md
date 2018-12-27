@@ -2,9 +2,9 @@
 title: "One Minute in India"
 layout: post
 categories: travel india
-excerpt: "A one minute montage of an entire month travelling in India!"
+summary: "A one minute montage of an entire month travelling in India!"
 image: "YriqAQH.jpg"
-comments: true
+blog: true
 tags: [India, Travel, Backpacking, Video, Asia]
 ---
 

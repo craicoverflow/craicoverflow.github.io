@@ -1,10 +1,10 @@
 ---
 title: 'One Month in India: Kerala'
 layout: post
-excerpt: "Kerala. God's Own Country. Actually that title belongs to the Wicklow Mountains in Ireland but we'll forgive them for that one. Just this once."
+summary: "Kerala. God's Own Country. Actually that title belongs to the Wicklow Mountains in Ireland but we'll forgive them for that one. Just this once."
 categories: travel india
 feature: "https://i.imgur.com/hsUhWIF.jpg"
-comments: true
+blog: true
 tags: [India, Travel, Backpacking, Kerala, Beach, Elephant, Kochi, Kovalam, Asia]
 ---
 

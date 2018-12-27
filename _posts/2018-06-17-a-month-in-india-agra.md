@@ -3,9 +3,15 @@ title: 'One Month in India: Agra'
 layout: post
 categories: travel india
 feature: "https://i.imgur.com/OITOh71.jpg"
-excerpt: "When people visit Agra - the second stop on India's Golden Triangle - they are not coming to see the city that 1.6 million people call home."
-comments: true
-tags: [India, Travel, Backpacking, Agra, Taj Mahal, Asia]
+summary: "When people visit Agra - the second stop on India's Golden Triangle - they are not coming to see the city that 1.6 million people call home."
+blog: true
+tag: 
+  - India
+  - Travel
+  - Backpacking
+  - Agra
+  - Taj Mahal
+  - Asia
 ---
 
 When people visit Agra - the second stop on India's Golden Triangle - they are not coming to see the city that 1.6 million people call home.

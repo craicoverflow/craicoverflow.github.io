@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How to change the theme in your Jekyll application"
-date:   2018-11-11
 blog: true
 categories: guides jekyll
 summary: "A step by step guide to changing theme in your Jekyll application."

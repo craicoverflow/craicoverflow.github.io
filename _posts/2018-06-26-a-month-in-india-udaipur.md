@@ -1,11 +1,17 @@
 ---
 title: 'One Month in India: Udaipur'
 layout: post
-excerpt: "Udaipur is a must visit if you travel to India. It is sometimes called the 'White City' because of the colour of the buildings in the old city."
+summary: "Udaipur is a must visit if you travel to India. It is sometimes called the 'White City' because of the colour of the buildings in the old city."
 categories: travel india
 feature: "https://i.imgur.com/EJ6NLse.jpg"
-comments: true
-tags: [India, Travel, Backpacking, Udaipur, Rajasthan, Asia]
+blog: true
+tag:
+  - India
+  - Travel
+  - Backpacking
+  - Udaipur
+  - Rajasthan
+  - Asia
 ---
 
 <a href="/travel/india/a-month-in-india-agra" target="_blank">Last week</a>, I talked about our time in Agra and our visit to the Taj Mahal. In this post we head west to Udaipur, in the desert state of Rajasthan.

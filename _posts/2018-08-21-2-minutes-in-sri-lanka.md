@@ -2,10 +2,16 @@
 title: "2 Minutes in Sri Lanka"
 layout: post
 categories: travel sri-lanka
-excerpt: "Video highlights of our 10 day trip to Sri Lanka in 2018."
+summary: "Video highlights of our 10 day trip to Sri Lanka in 2018."
 feature: "https://i.imgur.com/bWTo3m1.jpg"
-comments: true
-tags: [Sri Lanka, Travel, Backpacking, Video, Highlights, Asia]
+blog: true
+tag:
+  - Sri Lanka
+  - Travel
+  - Backpacking
+  - Video
+  - Highlights
+  - Asia
 ---
 
 Here's a short highlight video of our 10 day trip to Sri Lanka. Blog series coming soon ✍ Enjoy!

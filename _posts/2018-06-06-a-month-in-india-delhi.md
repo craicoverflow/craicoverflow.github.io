@@ -2,6 +2,7 @@
 title: 'One Month in India: Delhi'
 layout: post
 categories: travel india
+summary: "We leave the runway at Dublin Airport, starting our journey to South Asia. Five countries, six months. First stop - India."
 feature: "https://i.imgur.com/KfJLIhh.jpg"
 blog: true
 tag:

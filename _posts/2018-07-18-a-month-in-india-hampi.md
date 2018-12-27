@@ -3,8 +3,8 @@ title: 'One Month in India: Hampi'
 layout: post
 categories: travel india
 feature: "https://i.imgur.com/0hUJaxY.jpg"
-comments: true
-excerpt: "Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see."
+blog: true
+summary: "Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see."
 tags: [India, Travel, Backpacking, Hampi, Temple, Asia]
 ---
 
