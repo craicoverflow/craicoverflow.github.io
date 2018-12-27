@@ -2,15 +2,31 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a PhD student in Nuclear Physics at [Stony Brook university](http://www.physics.sunysb.edu/Physics/) supervised by Prof. Thomas Hemmick and Prof. Abhay Deshpande. I did my undergraduate studies in Electrical and Elctronics Engineering at [SASTRA University](http://www.sastra.edu/), India. 
+Born in England in October 1993 to Irish parents, I moved to county Sligo 18 months later, where I lived right up until I was 22.
 
-I work on a really fun hardware project in which, I help in the design and construction of a [Time Projection Chamber](https://en.wikipedia.org/wiki/Time_projection_chamber) for a proposed [sPHENIX](https://www.sphenix.bnl.gov/web/)  detector system. In parallel, I also work on the measurement of direct photons in forward rapidities from d+Au collisions fron run 2016 at Brookhaven National Lab. This measurement allows for strong constraints of nuclear effects related to gluon saturation as well as insight into the physics of the color glass condensate. More details on my research can be found here.
+17 is quite a young age to decide what career path you’re going to take, but that’s the way it is. I hadn’t a clue what I wanted to do, so I chose software development. It wasn’t a totally random choice as I always had an interest in computers, but it was still a step into the unknown.
 
-Apart from research, I am very passionate about teaching. Over the last couple of years, I have taught lab courses in Physics for life science undergraduate majors and have volunteered at local elementary school to set up small lab sessions to kindle curiosity and interest in science. More recently, I am designing a curriculum to teach year long to High school students as part of the University's [graduate women in science outreach program](http://www.stonybrook.edu/commcms/wise/pre-college/high_school). More details of my teaching journey can be found [here.](https://niveditharam.github.io/teaching/)
+Looking back I am so happy with the path that I chose - I love programming and everything that goes with it (even the meetings). In my spare time you might find me learning a new language or reading about yet another JavaScript framework that I apparently need!
 
+## Experience
 
-More information on my academic journey can be found in my CV.
+I have 2 years’ experience as a professional software engineer, working mostly with JavaScript, PHP or C# complimented with a number of other technologies.
 
-Apart from all this, I love theatre, meeting new people, travelling and reading. Feel free to write to me with any questions or opportunities in teaching or theatre that you think will interest me. 
+I am currently working at <a href="https://www.redhat.com">Red Hat</a> as a software engineer where we primarily work on the OpenShift platform with Golang.
+
+Before that I was employed as a full stack software engineer at <a href="https://www.qpercom.com">Qpercom</a>. My main role was to develop a web application built using AngularJS, Slim Framework (PHP) and MySQL, but I also worked on a number of side projects that included moving some of our applications to Docker, upgrading the main website’s UI and implementing a code-review process with the help of Gerrit.
+
+Before Qpercom I did a five month paid internship in Vulcan Solutions (since acquired by <a href="https://www.codec.ie/">Codec-dss</a>). I joined an agile team of four experienced engineers where I helped to develop Microsoft Dynamics CRM solutions and ASP.NET web applications.
+
+If you want to know more about my experience, check out my <a href="http://linkedin.com/in/{{site.linkedin}}">LinkedIn profile.
+
+## Education
+
+I studied Computing in Software Development for four years at IT Sligo. For the first three years the focus was on object-oriented programming, primarily on the .NET platform with C#. In third year there was a group project and a three-month industry work placement.
+
+The fourth year was optional - we learned ​advanced software development concepts and techniques, including artificial intelligence, advanced .NET programming, mobile development and human computer interaction.
+
+I graduated from IT Sligo in 2016, receiving an award for finishing with the highest GPA in my class.

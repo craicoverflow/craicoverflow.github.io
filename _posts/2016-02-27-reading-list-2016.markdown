@@ -1,9 +1,12 @@
 ---
 title: "Reading List"
 layout: post
-tag: papers
+tag:
+- books
+- pages
 img: indigo/indigo.png
 blog: true
+categories: default
 author: Niveditha Ram
 summary: "List of papers in different fields of physics that I have enjoyed reading."
 permalink: reading-list

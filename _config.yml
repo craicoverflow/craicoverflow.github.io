@@ -1,9 +1,9 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Enda Phelan
+bio: 'Software Engineer @ Red Hat.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+# description: 
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,37 +13,37 @@ picture: 'assets/images/profile.jpg'
 # url: http://artiannaswamy.com
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-#analytics-google: 'UA-74313908-1'
+analytics-google: 'UA-120307448-1'
 
 # if you don't want comments in your posts, set to false
-#disqus: artiannaswamy
+disqus: endaphelan
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+twitter: PhelanEnda
 # google: mygoogle
-# instagram: myinstagram
+instagram: enda.phelan
 #pinterest: annasw
-#linkedin: artiannaswamy
-# youtube: myyoutube
+linkedin: endaphelan
+youtube: channel/UC1L26uKpDW7ulxUBSi627UQ
 # spotify: myspotify
-github: NivedithaRam
-# medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+github: craicoverflow
+medium: endaphelan
+email: hello@endaphelan.me
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    EndaPhelan:
+        name: Enda Phelan
+        bio: Software Engineer @ Red Hat.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        twitter: PhelanEnda
 
 
 # do you want a larger site? change the option below
@@ -56,9 +56,9 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-research: true
-teaching: true
+projects: true
+# research: true
+# teaching: true
 # if you don't need about or blog, comment them out below
 about: true
 blog: true
@@ -81,11 +81,14 @@ show-author: true
 # do you want some animations?
 animation: true
 
+# Where images are hosted
+image_cdn: https://i.imgur.com
+
 sass:
     sass_dir: _sass
     style: :compressed
 
-gems:
+plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
