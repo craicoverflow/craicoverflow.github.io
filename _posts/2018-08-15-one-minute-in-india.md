@@ -17,4 +17,6 @@ If you are considering a visit to India, do it. It's a massive melting pot of di
 
 Here's a little montage I put together showing some of the highlights. Enjoy! 📽
 
-<div class="post-iframe post-yt"><iframe width="700" height="440" src="https://www.youtube.com/embed/VbrrzrkrjxA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div style="text-align: center">
+<iframe width="700" height="440" src="https://www.youtube.com/embed/VbrrzrkrjxA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

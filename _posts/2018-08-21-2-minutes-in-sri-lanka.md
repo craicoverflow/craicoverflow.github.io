@@ -16,4 +16,6 @@ tag:
 
 Here's a short highlight video of our 10 day trip to Sri Lanka. Blog series coming soon ✍ Enjoy!
 
+<div style="text-align: center">
 <iframe width="700" height="440" src="https://www.youtube.com/embed/E2lfkVyPT-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
