@@ -1,5 +1,5 @@
 current directory: /home/endaphelan/code/src/github.com/craicoverflow/craicoverflow.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/bin/ruby -r ./siteconf20181224-23623-slud9b.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181227-6044-xcx4nl.rb extconf.rb
 creating Makefile
 
 current directory: /home/endaphelan/code/src/github.com/craicoverflow/craicoverflow.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -65,6 +65,6 @@ gcc -shared -o commonmarker.so arena.o autolink.o blocks.o buffer.o cmark.o cmar
 
 current directory: /home/endaphelan/code/src/github.com/craicoverflow/craicoverflow.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181224-23623-18edrbv/commonmarker
+/usr/bin/mkdir -p . ./.gem.20181227-6044-7bpyyd/commonmarker
 exit > .sitearchdir.-.commonmarker.time
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20181224-23623-18edrbv/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20181227-6044-7bpyyd/commonmarker

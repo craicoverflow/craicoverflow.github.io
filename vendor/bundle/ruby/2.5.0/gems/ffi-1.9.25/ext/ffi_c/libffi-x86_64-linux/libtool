@@ -284,7 +284,7 @@ hardcode_into_libs=yes
 sys_lib_search_path_spec="/usr/lib/gcc/x86_64-redhat-linux/8 /usr/lib64 /lib64 /usr/lib /lib "
 
 # Detected run-time system search path for libraries.
-sys_lib_dlsearch_path_spec="/lib /usr/lib /usr/lib64//bind9-export/ /usr/lib64/iscsi /usr/lib64/llvm6.0/lib /usr/lib64/qt-3.3/lib /usr/lib64/whatsapp-desktop "
+sys_lib_dlsearch_path_spec="/lib /usr/lib /usr/lib64//bind9-export/ /usr/lib64/dyninst /usr/lib64/iscsi /usr/lib64/qt-3.3/lib "
 
 # Explicit LT_SYS_LIBRARY_PATH set during ./configure time.
 configure_time_lt_sys_library_path=""
@@ -329,7 +329,7 @@ pic_flag=" -fPIC -DPIC"
 wl="-Wl,"
 
 # Compiler flag to prevent dynamic linking.
-link_static_flag=""
+link_static_flag="-static"
 
 # Does compiler simultaneously support -c and -o options?
 compiler_c_o="yes"

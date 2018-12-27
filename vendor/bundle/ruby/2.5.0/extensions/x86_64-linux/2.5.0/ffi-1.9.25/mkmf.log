@@ -122,7 +122,7 @@ checked program was:
 /* end */
 
 "gcc -o conftest -I/usr/include -I/usr/include/ruby/backward -I/usr/include -I.    -O2 -g -pipe -Wall -Werror=format-security -Wp,-D_FORTIFY_SOURCE=2 -Wp,-D_GLIBCXX_ASSERTIONS -fexceptions -fstack-protector-strong -grecord-gcc-switches -specs=/usr/lib/rpm/redhat/redhat-hardened-cc1 -specs=/usr/lib/rpm/redhat/redhat-annobin-cc1 -mtune=generic -fasynchronous-unwind-tables -fstack-clash-protection -fcf-protection -fPIC conftest.c  -L. -L/usr/lib64 -L. -Wl,-z,relro   -Wl,-z,now -specs=/usr/lib/rpm/redhat/redhat-hardened-ld -fstack-protector -rdynamic -Wl,-export-dynamic  -m64   -lruby    -lc"
-/usr/bin/ld: /tmp/ccT4TVZ2.o: in function `t':
+/usr/bin/ld: /tmp/ccf2s9G4.o: in function `t':
 /home/endaphelan/code/src/github.com/craicoverflow/craicoverflow.github.io/vendor/bundle/ruby/2.5.0/gems/ffi-1.9.25/ext/ffi_c/conftest.c:14: undefined reference to `rb_thread_blocking_region'
 collect2: error: ld returned 1 exit status
 checked program was:
