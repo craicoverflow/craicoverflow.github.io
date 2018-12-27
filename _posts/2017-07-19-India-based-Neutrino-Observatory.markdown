@@ -1,12 +1,12 @@
 ---
 title: "India-based Neutrino Observatory"
 layout: post
-date: 2017-07-19 18:23
-tag: Neutrino Physics
-tag: India
-teaching: true
+tag: 
+ - Neutrino Physics
+project: true
 draft: false
 author: Niveditha Ram
+permalink: "/hellothere"
 summary: "India Based Neutrino Observatory - Physics questions and what the observatory is trying to achieve"
  
 ---
@@ -48,4 +48,3 @@ In the end, people should become more aware of what neutrinos are and how import
 
 Sources:
 [INO](http://www.ino.tifr.res.in/ino/) 
-
