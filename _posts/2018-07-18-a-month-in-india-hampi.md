@@ -5,7 +5,13 @@ categories: travel india
 feature: "https://i.imgur.com/0hUJaxY.jpg"
 blog: true
 summary: "Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see."
-tags: [India, Travel, Backpacking, Hampi, Temple, Asia]
+tag:
+  - India
+  - Travel
+  - Backpacking
+  - Hampi
+  - Temple
+  - Asia
 ---
 
 Hampi is a small rural village in the south Indian state of Karnataka. Truth be told there's not much happening in the village itself, but that's not what you come to see. Things used to be very different in Hampi; this was once a wealthy and thriving city, which became the capital of the Vijayanagara Empire in the 14th century until 1565 when the empire was defeated and the city destroyed.
