@@ -3,7 +3,7 @@ title: 'How to enable OpenShift service catalog components in Minishift'
 layout: post
 categories: guides openshift
 blog: true
-author: endaphelan
+author: EndaPhelan
 summary: "Learn how to enable OpenShift service catalog components in Minishift."
 tag:
   - Guides
