@@ -3,6 +3,7 @@ title: 'Committing Better Go Code with Static Analysis and Git hooks'
 layout: post
 categories: guides golang
 blog: true
+picture: assets/images/profile.jpg
 summary: "An introduction to some popular static analysis tools for Go and how to automate them using Git hooks"
 tag:
   - Go
