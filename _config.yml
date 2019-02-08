@@ -4,7 +4,9 @@ bio: 'Software Engineer @ Red Hat.'
 url: https://endaphelan.me
 
 # twitter summary info
-# description: 
+twitter:
+  username: PhelanEnda
+  card: summary_large_image
 
 # if it's an external image, update below for true
 # better with square images
@@ -27,7 +29,7 @@ disqus: endaphelan
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: PhelanEnda
+# twitter: PhelanEnda
 # google: mygoogle
 instagram: enda.phelan
 #pinterest: annasw
@@ -57,11 +59,6 @@ authors:
         picture: assets/images/profile.jpg
         twitter: PhelanEnda
 
-# Twitter Card
-twitter:
-  username: PhelanEnda
-  card: summary_large_image
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -69,7 +66,7 @@ width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
-# paginate_path: "blog/:num/"
+paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
