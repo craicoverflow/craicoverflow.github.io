@@ -1,6 +1,7 @@
 # main text of home
 name: Enda Phelan
 bio: 'Software Engineer @ Red Hat.'
+url: https://endaphelan.me
 
 # twitter summary info
 # description: 
@@ -37,6 +38,17 @@ github: craicoverflow
 medium: endaphelan
 email: hello@endaphelan.me
 
+# SEO Social links
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/PhelanEnda
+    - https://www.linkedin.com/in/endaphelan
+    - https://github.com/craicoverflow
+    - https://keybase.io/benbalter
+    - https://medium.com/@endaphelan
+    - https://www.youtube.com/channel/UC1L26uKpDW7ulxUBSi627UQ
+
 authors:
     EndaPhelan:
         name: Enda Phelan
@@ -45,6 +57,10 @@ authors:
         picture: assets/images/profile.jpg
         twitter: PhelanEnda
 
+# Twitter Card
+twitter:
+  username: PhelanEnda
+  card: summary_large_image
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
