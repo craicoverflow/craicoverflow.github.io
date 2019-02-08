@@ -4,6 +4,7 @@ layout: post
 categories: guides golang
 blog: true
 image: https://i.imgur.com/UkfFo63.jpg
+author: EndaPhelan
 summary: "An introduction to some popular static analysis tools for Go and how to automate them using Git hooks"
 description: "An introduction to some popular static analysis tools for Go and how to automate them using Git hooks"
 tag:
