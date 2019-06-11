@@ -1251,3 +1251,7 @@ pre {
 .center {
 	text-align: center;
 }
+
+.calendar {
+  padding:20px;
+}
