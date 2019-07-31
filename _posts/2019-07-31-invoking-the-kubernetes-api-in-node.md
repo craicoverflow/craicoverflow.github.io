@@ -3,7 +3,7 @@ title: "Invoking the Kubernetes API in Node.js"
 layout: post
 categories: guides kubernetes
 blog: true
-image: https://i.imgur.com/EYfRViK.jpg
+image: https://i.imgur.com/0jp2rVR.jpg
 author: EndaPhelan
 description: "An in-depth tutorial on how to invoke the Kubernetes API from a Node.js application"
 summary: "An in-depth tutorial on how to invoke the Kubernetes API from a Node.js application"
@@ -15,7 +15,7 @@ tag:
     - npm
 ---
 
-<img class="image" src="{{site.image_cdn}}/EYfRViK.jpg">
+<img class="image" src="{{site.image_cdn}}/0jp2rVR.jpg">
 
 Life becomes just a little bit easier if you can invoke the Kubernetes API directly. That's why [GoDaddy](https://www.godaddy.com/) decided to make [kubernetes-client](https://github.com/godaddy/kubernetes-client), an easy to use Node.js client for Kubernetes.
 
