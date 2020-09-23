@@ -1,4 +1,4 @@
 baseURL = "https://craicoverflow.github.io"
-languageCode = "en-us"
+languageCode = "en-ie"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "kiss"
