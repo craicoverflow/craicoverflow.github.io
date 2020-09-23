@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Enforcing Conventional Commits using Git hooks | Enda Phelan</title>
+
+<meta property='og:title' content='Enforcing Conventional Commits using Git hooks - Enda Phelan'>
+<meta property='og:description' content='A guide on how to leverage the use of Git hooks to enforce conventional commits in your Git project'>
+<meta property='og:url' content='https://endaphelan.me/posts/using-git-hooks-to-enforce-conventional-commits/'>
+<meta property='og:site_name' content='Enda Phelan'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://i.imgur.com/CLYvkIp.jpg'><meta property='article:published_time' content='2019-06-10T00:00:00Z'/><meta property='article:modified_time' content='2019-06-10T00:00:00Z'/><meta name='twitter:card' content='summary_large_image'><meta name='twitter:site' content='@PhelanEnda'><meta name='twitter:creator' content='@PhelanEnda'>
+
+
+<link href="https://endaphelan.me/index.xml" rel="alternate" type="application/rss+xml" title="Enda Phelan" />
+
+<link rel="stylesheet" href="/css/style.css"/><link rel='stylesheet' href='https://endaphelan.me/css/custom.css'><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="canonical" href="https://endaphelan.me/posts/using-git-hooks-to-enforce-conventional-commits/">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<section class="section">
+  <div class="container">
+    <nav id="nav-main" class="nav">
+      <div id="nav-name" class="nav-left">
+        <a id="nav-anchor" class="nav-item" href="https://endaphelan.me">
+          <h1 id="nav-heading" class="title is-4">Enda Phelan</h1>
+        </a>
+      </div>
+      <div class="nav-right">
+        <nav id="nav-items" class="nav-item level is-mobile"><a class="level-item" aria-label="github" href='https://github.com/craicoverflow'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="twitter" href='https://twitter.com/PhelanEnda'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="instagram" href='https://instagram.com/enda.phelan'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+    <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="email" href='mailto:hello@endaphelan.me'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="linkedin" href='https://linkedin.com/in/endaphelan'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+
+    <nav class="nav">
+      
+
+      
+    </nav>
+
+  </div>
+  <script src="/js/navicon-shift.js"></script>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      
+      
+<a class="subtitle is-6" href="/tags/git/">#Git</a>
+
+
+
+  
+  | <a class="subtitle is-6" href="/tags/bash/">#Bash</a>
+  
+  | <a class="subtitle is-6" href="/tags/conventional-commits/">#Conventional Commits</a>
+  
+
+
+      
+    </div>
+    <h2 class="subtitle is-6">June 10, 2019</h2>
+    <h1 class="title">Enforcing Conventional Commits using Git hooks</h1>
+    
+    <div class="content">
+      <p>I&rsquo;m a huge fan of <a href="https://www.conventionalcommits.org">Conventional Commits</a>. This relatively young specification provides a set of rules for creating an explicit, standardised commit history.</p>
+<p>I&rsquo;ve tried my best to follow the convention in all my projects. When I&rsquo;m running low on caffeine I sometimes forget to follow the convention or a I let a typo slip past my eyes. To resolve this, I decided to create a dynamic <code>commit-msg</code> Git hook which automatically validates my commit message, and prevents them from being committed if any of the conditions fail.</p>
+<h2 id="creating-the-hook">Creating the hook</h2>
+<p><strong>Note:</strong> for the hook to read configuration values from a JSON file, you will need to install <a href="https://stedolan.github.io/jq/">jq</a>.</p>
+<p>In your Git project, add a <code>commit-msg</code> hook in <code>.git/hooks</code> by renaming the sample script that is there already.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">$ mv .git/hooks/commit-msg.sample .git/hooks/commit-msg
+</code></pre></div><p>To start, let&rsquo;s read configuration values from a configuration file, which will later be added to the project&rsquo;s root.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">config<span style="color:#f92672">=</span>commit-msg.config.json
+
+<span style="color:#75715e"># set variables</span>
+enabled<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>jq -r .enabled $config<span style="color:#66d9ef">)</span>
+revert<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>jq -r .revert $config<span style="color:#66d9ef">)</span>
+types<span style="color:#f92672">=(</span><span style="color:#66d9ef">$(</span>jq -r <span style="color:#e6db74">&#39;.types[]&#39;</span> $config<span style="color:#66d9ef">)</span><span style="color:#f92672">)</span>
+min_length<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>jq -r .length.min $config<span style="color:#66d9ef">)</span>
+max_length<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>jq -r .length.max $config<span style="color:#66d9ef">)</span>
+</code></pre></div><p>If the config file does not exist, or if the <code>enabled</code> property is false, we can exit the hook and skip validation.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> ! -f $config <span style="color:#f92672">||</span> ! $enabled <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+    exit <span style="color:#ae81ff">0</span>
+<span style="color:#66d9ef">fi</span>
+</code></pre></div><h2 id="building-a-dynamic-regex-string">Building a dynamic regex string</h2>
+<p>Let&rsquo;s start the string with a hat symbol (<code>^</code>), which indicates the beginning of the string.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">regexp<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;^(&#34;</span>
+</code></pre></div><p>If <code>$revert</code> is set to true, the commit message can optionally be prefixed with &ldquo;revert:&rdquo;.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#66d9ef">if</span> $revert; <span style="color:#66d9ef">then</span>
+    regexp<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>regexp<span style="color:#e6db74">}</span><span style="color:#e6db74">revert: )?(\w+)(&#34;</span>
+<span style="color:#66d9ef">fi</span>
+</code></pre></div><p>Let&rsquo;s get all of the allowed types from <code>commit-msg.config.json</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#66d9ef">for</span> type in <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>types[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>
+<span style="color:#66d9ef">do</span>
+    regexp<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>regexp<span style="color:#e6db74">}</span>$type<span style="color:#e6db74">|&#34;</span>
+<span style="color:#66d9ef">done</span>
+</code></pre></div><p>This next piece does two things. If an opening bracket comes immediately after the type, It must be closed and contain a scope. The second thing is that the type and/or scope must be followed with a colon symbol (:).</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">regexp<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>regexp<span style="color:#e6db74">}</span><span style="color:#e6db74">)(\(.+\))?: &#34;</span>
+</code></pre></div><p>Here were are setting limits on the maximum and minimum length of the message immediately after the colon.</p>
+<pre><code>regexp=&quot;${regexp}.{$min_length,$max_length}$&quot;
+</code></pre><h3 id="validating-the-commit-message">Validating the commit message</h3>
+<p>Now that the regex has been built, let&rsquo;s see some examples of how the commit message could look.</p>
+<pre><code>revert: docs: updated table of contents
+feat(user): added constructor to model
+fix: incorrect URL in link
+</code></pre><p>Get the first line of the commit message:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">msg<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>head -1 $1<span style="color:#66d9ef">)</span>
+</code></pre></div><p>In the following statement, we are checking if the commit message passes the regex validation. If it fails, print out a custom error message and exit the script.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> ! $msg <span style="color:#f92672">=</span>~ $regexp <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+  echo -e <span style="color:#e6db74">&#34;\n\e[1m\e[31m[INVALID COMMIT MESSAGE]&#34;</span>
+  echo -e <span style="color:#e6db74">&#34;------------------------\033[0m\e[0m&#34;</span>
+  echo -e <span style="color:#e6db74">&#34;\e[1mValid types:\e[0m \e[34m</span><span style="color:#e6db74">${</span>types[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">\033[0m&#34;</span>
+  echo -e <span style="color:#e6db74">&#34;\e[1mMax length (first line):\e[0m \e[34m</span>$max_length<span style="color:#e6db74">\033[0m&#34;</span>
+  echo -e <span style="color:#e6db74">&#34;\e[1mMin length (first line):\e[0m \e[34m</span>$min_length<span style="color:#e6db74">\033[0m\n&#34;</span>
+
+  <span style="color:#75715e"># exit with an error</span>
+  exit <span style="color:#ae81ff">1</span>
+<span style="color:#66d9ef">fi</span>
+</code></pre></div><h3 id="configuration">Configuration</h3>
+<p>The great thing about the Conventional Commit specification is its flexibility. You choose the rules that best suit your requirements. This flexibility is why I decided to make my hook configurable. Below is a sample configuration file.</p>
+<p>Add it to the root of your project and make sure it matches the file name in the script; which in this case is <code>commit-msg.config.json</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">{
+    <span style="color:#f92672">&#34;enabled&#34;</span>: <span style="color:#66d9ef">true</span>,
+    <span style="color:#f92672">&#34;revert&#34;</span>: <span style="color:#66d9ef">true</span>,
+    <span style="color:#f92672">&#34;length&#34;</span>: {
+        <span style="color:#f92672">&#34;min&#34;</span>: <span style="color:#ae81ff">1</span>,
+        <span style="color:#f92672">&#34;max&#34;</span>: <span style="color:#ae81ff">52</span>
+    },
+    <span style="color:#f92672">&#34;types&#34;</span>: [
+        <span style="color:#e6db74">&#34;build&#34;</span>,
+        <span style="color:#e6db74">&#34;ci&#34;</span>,
+        <span style="color:#e6db74">&#34;docs&#34;</span>,
+        <span style="color:#e6db74">&#34;feat&#34;</span>,
+        <span style="color:#e6db74">&#34;fix&#34;</span>,
+        <span style="color:#e6db74">&#34;perf&#34;</span>,
+        <span style="color:#e6db74">&#34;refactor&#34;</span>,
+        <span style="color:#e6db74">&#34;style&#34;</span>,
+        <span style="color:#e6db74">&#34;test&#34;</span>,
+        <span style="color:#e6db74">&#34;chore&#34;</span>
+    ]
+}
+</code></pre></div><h2 id="making-your-git-hook-global">Making your Git hook global</h2>
+<p>It is possible to create global Git hooks which are added to all of your projects on <code>git init</code>.</p>
+<p>Enable Git templates:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">git config --global init.templatedir <span style="color:#e6db74">&#39;~/.git-templates&#39;</span>
+</code></pre></div><p>Create a directory to save your global hooks:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">mkdir -p ~/.git-templates/hooks
+</code></pre></div><p>Create a <code>commit-msg</code> hook in <code>~/.git-templates/hooks/commit-msg</code>, and make it executable:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">touch ~/.git-templates/hooks/commit-msg
+chmod u+x ~/.git-templates/hooks/commit-msg
+</code></pre></div><p>You can repeat the steps from <!-- raw HTML omitted --><strong>Making the hook</strong><!-- raw HTML omitted --> and add them to the global <code>commit-msg</code> hook.</p>
+<h3 id="sailr">Sailr</h3>
+<p>If you&rsquo;d rather not do any of the above, and want a ready-to-go solution, I&rsquo;ve made this into its own project called <a href="https://github.com/craicoverflow/sailr">Sailr</a>.</p>
+<p>Here&rsquo;s how you can install Sailr:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">git clone https://github.com/craicoverflow/sailr
+cd sailr
+make install
+</code></pre></div>
+      
+      <div class="related">
+
+<h3>Similar articles:</h3>
+<ul>
+	
+	<li><a href="/posts/committing-better-go-code-with-static-analysis-and-git-hooks/">Committing Better Go Code with Static Analysis and Git Hooks</a></li>
+	
+</ul>
+</div>
+      
+    </div>
+    
+  </div>
+</section>
+
+    <script src="/js/copycode.js"></script>
+
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="https://github.com/craicoverflow">Enda Phelan</a> 2020</p>
+    
+      <p>Powered by <a href="https://gohugo.io/">Hugo</a> &amp; <a href="https://github.com/ribice/kiss">Kiss</a>.</p>
+    
+  </div>
+</section>
+
+
+
+</body>
+</html>
+

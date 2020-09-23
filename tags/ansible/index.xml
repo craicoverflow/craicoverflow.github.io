@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansible on Enda Phelan</title>
+    <link>https://endaphelan.me/tags/ansible/</link>
+    <description>Recent content in Ansible on Enda Phelan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/craicoverflow&#34;&gt;Enda Phelan&lt;/a&gt; 2020</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://endaphelan.me/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing Ansible</title>
+      <link>https://endaphelan.me/posts/installing-ansible/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://endaphelan.me/posts/installing-ansible/</guid>
+      <description>Learn how to install Ansible on your Linux or MacOS operating system and use virtualenv to install multiple versions at the same time.</description>
+    </item>
+    
+  </channel>
+</rss>
