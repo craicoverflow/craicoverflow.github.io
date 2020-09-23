@@ -4,3 +4,7 @@
 [submodule "themes/kiss"]
 	path = themes/kiss
 	url = https://github.com/ribice/kiss.git
+[submodule "public"]
+	path = public
+	url = https://github.com/craicoverflow/craicoverflow.github.io.git
+	branch = master
