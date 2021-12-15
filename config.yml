@@ -1,0 +1,128 @@
+baseURL: "https://endaphelan.me"
+title: Enda Phelan
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-120307448-1
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Enda Phelan
+    description: "Enda's thoughts"
+    keywords: [Blog, Portfolio]
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Enda Phelan"
+        # icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: Enda Phelan
+        subtitle: "Developer developing developer tools and occasionally blogging about what I do."
+        imageUrl: "https://avatars.githubusercontent.com/u/11743717?s=400&u=1f2dbf4bf032cce8d2d062f65d3077697d7aa900&v=4"
+        imageWidth: 140
+        imageHeight: 140
+        imageTitle: Mugshot
+
+    # home-info mode
+    homeInfoParams:
+        # Title: "Hi there \U0001F44B"
+        Content: > 
+           Hi there. I'm Enda, a software engineer building open source projects with a particular focus on API design and developer experience.
+           Every now and then I will post here about my experiences in this field. 
+           I'm open to collaborating or chatting about anything, so if you want to you can reach me on [Polywork](https://www.polywork.com/endaphelan) [Twitter](https://twitter.com/PhelanEnda) 😃.
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/PhelanEnda"
+        - name: github
+          url: "https://github.com/craicoverflow"
+        - name: polywork
+          url: "https://www.polywork.com/endaphelan"
+        - name: instagram
+          url: "https://instagram.com/enda.phelan"
+        - name: linkedin
+          url: "https://linkedin.com/in/endaphelan"
+
+    analytics:
+        google:
+            SiteVerificationTag: "UA-120307448-1"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/craicoverflow/craicoverflow.github.io/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 10
+        # - identifier: archive
+        #   name: Archive
+        #   url: /archives/
+        #   weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
