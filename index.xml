@@ -4,14 +4,15 @@
     <title>Enda Phelan</title>
     <link>https://endaphelan.me/</link>
     <description>Recent content on Enda Phelan</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://endaphelan.me/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Dec 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://endaphelan.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://endaphelan.me/posts/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Software Idioms You Should Know</title>
+      <link>https://endaphelan.me/posts/software-idioms-you-should-know/</link>
+      <pubDate>Wed, 15 Dec 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://endaphelan.me/posts/post1/</guid>
-      <description></description>
+      <guid>https://endaphelan.me/posts/software-idioms-you-should-know/</guid>
+      <description>I have been working as a software engineer for just over five years. Every now and then I encounter an idiom during a meeting which I don&amp;rsquo;t understand at all and it is not explained because it is assumed that everyone already understands its meaning. Either everyone else does know what it means or there are a number of people like me, confused but hesitant to ask what it means as it is hard to gauge whether you are the only dumb-dumb who does not know.</description>
     </item>
     
   </channel>
