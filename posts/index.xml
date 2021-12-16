@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Dec 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://endaphelan.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Software Idioms You Should Know</title>
+      <title>Software Engineering Idioms You Should Know</title>
       <link>https://endaphelan.me/posts/software-idioms-you-should-know/</link>
       <pubDate>Wed, 15 Dec 2021 11:30:03 +0000</pubDate>
       
       <guid>https://endaphelan.me/posts/software-idioms-you-should-know/</guid>
-      <description>I have been working as a software engineer for just over five years. Every now and then I encounter an idiom during a meeting which I don&amp;rsquo;t understand at all and it is not explained because it is assumed that everyone already understands its meaning. Either everyone else does know what it means or there are a number of people like me, confused but hesitant to ask what it means as it is hard to gauge whether you are the only dumb-dumb who does not know.</description>
+      <description>I have been working as a software engineer for just over five years. Every now and then I encounter a phrase used to describe something during an engineering discussion, where its meaning is not obvious from the words themselves. These kinds of phrases are known as idioms - expressions that have a non-literal meaning attached to the phrase. &amp;ldquo;Break a leg&amp;rdquo; is a well-known idiom to wish a person good luck.</description>
     </item>
     
   </channel>
