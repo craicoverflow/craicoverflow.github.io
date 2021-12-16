@@ -2,6 +2,8 @@
 title: "Software Engineering Idioms You Should Know"
 date: 2021-12-15T11:30:03+00:00
 weight: 1
+cover:
+  image: "https://i.imgur.com/IaI0TZD.jpg"
 ---
 
 I have been working as a software engineer for just over five years. Every now and then I encounter a phrase used to describe something during an engineering discussion, where its meaning is not obvious from the words themselves. These kinds of phrases are known as *idioms* - expressions that have a non-literal meaning attached to the phrase. "Break a leg" is a well-known idiom to wish a person good luck.
@@ -41,7 +43,7 @@ Yak shaving is when you start a task but end up having to complete a number of o
 
 ## Technical debt
 
-Technical debt is bad code which is the result of when a development team takes shortcuts in their code delivery in order to meet deadlines. The bad code causes issues down the line leading it to need to be refactored.
+Technical debt is the implied cost of reworking an existing codebase or system. It is often incurred as a result of taking a quick and easy option now instead of a creating a better solution which would take longer.
 
 ## Bus factor
 
