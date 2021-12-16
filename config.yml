@@ -19,7 +19,7 @@ params:
     title: Enda Phelan
     description: "Enda's blog"
     keywords: [Blog, Portfolio]
-    author: Me
+    author: Enda Phelan
     # author: ["Me", "You"] # multiple authors
     # images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
