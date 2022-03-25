@@ -12,7 +12,7 @@ I used to cope just fine using my head to keep track of both the short and long 
 
 The following list is not supposed to be any kind of ultimate solution that is guaranteed to work for you. These are simply the things that I  found that have helped me get closer to fulfilling my objective.
 
-## Maximizing calendar usage
+## Maximizing calendar usage 📅
 
 I used to occasionally put something in my calendar. Not because I needed to, I just liked the idea of it. My approach to calendar entry was not very systematic anyway so it just never felt very useful to me. As I got busier I began adding everything to my calendar otherwise I'd just end up forgetting things or having to retrieve the information from an email, text or WhatsApp message.
 
@@ -20,7 +20,7 @@ I realized that I could do better. I created custom calendars to segment events 
 
 Finally, I made sure to shares my personal calendar with my work calendar. Given that I spend almost 1/3 of my waking hours at work it makes sense to be able to view my *complete* schedule from a single calendar view.
 
-## Inbox Zero
+## Inbox Zero 📧
 
 I've been a Gmail user since it was still invite-only in 2006. In all of those years once I opened a new email and "processed" I did not do anything to tidy it up. I just left it in my inbox, unread and cluttering my screen even though I had no plans to ever interact with it again. Slowly but surely my processed emails would make their way down my inbox, and eventually they would leave my sight forever.
 
@@ -35,7 +35,7 @@ I now follow an "Inbox Zero" approach to managing my emails. I archive or even d
 
 I followed this [Inbox Zero Tutorial](https://youtu.be/9ql1CQfxWxQ) by Jeff Su to implement an Inbox Zero workflow into both my work and personal gmail accounts. I'm a big fan of Jeff's content - he gives great productivity tips and I recommend you check out the rest of his videos.
 
-## Getting Things Done
+## Getting Things Done ✅✅✅
 
 My biggest productivity struggle was that I did not have a coordinated system in place to capture and subsequently manage all of my tasks and projects. I tried a number of ways to capture tasks - from simple pen and paper to using popular digital tools. These failed to be effective for so many reasons and I usually ended up falling back to using my head to bear the load of figuring out everything that I needed to do.
 
@@ -46,18 +46,18 @@ The book was actually a light and enjoyable read and also extremely helpful. The
 
 I now finally have a single system that is easy to use to track the multiple projects that I am working on at the same time. I don't forget about stuff like I used to because it's always there in front of me in my **Next Actions** list.
 
-## Todoist
+## Todoist 🗒️
 
 [Todoist](https://todoist.com/) is a feature-rich task management application that I have tried to use many times over the years but failed, simply because I did not have an organization system in place and I was unable to utilize the true extent of its power. I once again tried it out when I began using Getting Things Done. Thanks to its flexibility I was able to shape it to match the exact workflow that I was trying to create. It also has dozens of free integrations available such as Google Calendar two-way synchronization. I can safely say that if I tried to use pen and paper or Google Tasks with the GTD methodology I would have failed to keep it up.
 
-## The Pomodoro Technique
+## The Pomodoro Technique 🍅
 
 [The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) is something that I sometimes use, and even then I am not strict about it.
 It is a very simple technique - set a 25 minute timer and focus on a single task, then take a five minute break.
 I only call upon this technique when I need to have strong focus as my workload on some days may be a little less defined or be broken up with meetings where it would make little sense to use this.
 Other than the focus blocks this encourages, I also like to use this technique to remind myself to take frequent short breaks. On days where I don't use it I can find myself losing track of time while stuck on something and I go far too long without getting up for a walk or stretch.
 
-## Closing distractions
+## Closing distractions ✋
 
 How often do you check your emails? Maybe you get a pop-up whenever one comes in? Or if you're like me your eyes frequently shoot up to the pinned email tab to see if it has changed from **Inbox** to **Inbox (1)**. I cannot leave something unread when I know it's there, so I will rip myself away from what I am doing and read the email. 90% of the time it's not something I need to action immediately, if at all. Yet I've still interrrupted myself to go and read it and now must try to refocus myself on what I had been doing which takes time.
 
