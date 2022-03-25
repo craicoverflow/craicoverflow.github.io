@@ -8,7 +8,7 @@ cover:
 
 The past couple of years have been my busiest ever, both in work and in my personal life. In two years of work I went from a junior to a senior software engineer, and with that came a raft of new responsibilities. In the same two years I had some big life events which required long term planning like which I had never needed before.
 
-I used to cope just fine using my head to keep track of both the short and long term tasks and goals - because there weren't that many happening at the same time. Suddenly, and before I even realized, this system had become no longer fit for purpose and it was unable to cope with my requirements. 2021 for me became a year of discovering, experimenting and adopting different methods that would enable me primarily to become more organized, which would in turn affect productivity. 
+I used to cope just fine using my head to keep track of both the short and long term tasks and goals - because there weren't that many happening at the same time. Suddenly, and before I even realized, this system had become no longer fit for purpose and it was unable to cope with my requirements. 2021 for me became a year of discovering, experimenting and adopting different methods that would enable me primarily to become more organized, which would in turn enhance productivity. 
 
 The following list is not supposed to be any kind of ultimate solution that is guaranteed to work for you. These are simply the things that I  found that have helped me get closer to fulfilling my objective.
 
